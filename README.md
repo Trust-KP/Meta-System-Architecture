@@ -13,6 +13,8 @@ of classical Chinese philosophy through the Trust Framework.
 
 License: CC BY 4.0
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19316449.svg)](https://doi.org/10.5281/zenodo.19316449)
+
 ⸻
 
 # 摘要
