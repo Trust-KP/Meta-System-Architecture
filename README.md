@@ -8,6 +8,8 @@ Year: 2026
 This paper presents a meta-descriptive structural interpretation
 of classical Chinese philosophy through the Trust Framework.
 
+License: CC BY 4.0
+
 诸子百家与延续结构：基于历史信号的统一解释框架
 
 ⸻
