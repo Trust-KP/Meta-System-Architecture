@@ -144,3 +144,35 @@ Insight:
 
 The Universe is the terminal system — nothing sits above it.
 
+
+# TD‑12: Continuation
+
+Continuation (system)
+
+Interpretation → what counts as persistence  
+Framework     → ordering / structure of continuation  
+Regime        → conditions under which continuation holds  
+Operation     → time (the unfolding)
+
+# TD‑13: Existence
+
+Existence (system)
+
+Interpretation → Being  
+Framework     → Structure of Being  
+Regime        → Conditions of Being  
+Operation     → Continuation
+
+Axiom 1 — Being  
+An entity exists if and only if it is distinguishable from non-existence.
+
+Axiom 2 — Structure  
+An entity exists only insofar as it possesses internal or relational structure.
+
+Axiom 3 — Conditions  
+An entity exists only under conditions that permit its structure to hold.
+
+Axiom 4 — Continuation  
+An entity exists through time only if its structure is sustained under its conditions.
+
+
