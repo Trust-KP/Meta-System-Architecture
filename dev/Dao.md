@@ -94,3 +94,10 @@
 曰：道行。
 
 道定其义，象成其构，理守其度，阴阳行其变。
+
+道（释） → meaning
+象（构） → structure
+理（度） → constraint
+行（行） → operation
+
+→ 体系（complete system）
