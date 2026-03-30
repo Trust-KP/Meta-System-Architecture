@@ -166,3 +166,100 @@ Status:
 Integrated
 Framework Disposition:  
 Civilizational Architecture (4‑layer)
+
+SC-0011 — The Recursive Civilizational Loop
+Thread ID: SC-0011
+
+Domain: System Dynamics
+
+Topic:
+
+Feedback and Entropy in Civilizational Architecture
+
+Key Insight:
+
+Civilizational continuation is not a static state but a recursive process.
+
+The four layers (Interpretation → Framework → Regime → Operation) form a closed loop where operational outcomes generate new observations that must update the Interpretation layer.
+
+Failure to close this loop leads to Entropy (Signal Decay/Decoupling).
+
+Framework Relevance:
+
+Defines the dynamic mechanism that allows civilizations to persist across centuries.
+
+Status:
+
+Integrated
+
+Framework Disposition:
+
+Recursive System Loop
+
+SC-0012 — Entropy and Structural Failure Modes
+Thread ID: SC-0012
+
+Domain: System Failure
+
+Topic:
+
+Mapping Entropy to Civilizational Layers
+
+Key Insight:
+
+Each layer has a specific failure mode when coordination under uncertainty breaks down:
+
+Interpretation: Decoupling (Hypocrisy) — signals no longer match reality.
+
+Framework: Rigidity (Obsolescence) — categories fail to update.
+
+Regime: Brittleness (Fragility) — enforcement cannot sustain behavior.
+
+Operation: Inefficiency (Execution Gap) — failure to produce outcomes.
+
+Framework Relevance:
+
+Provides a diagnostic tool for civilizational collapse.
+
+Status:
+
+Integrated
+
+Framework Disposition:
+
+Systemic Entropy Mapping
+
+SC-0013 — Temporal Architecture (Source Code)
+Thread ID: SC-0013
+
+Domain: Continuation
+
+Topic:
+
+The Temporal Primitive of Civilization
+
+Key Insight:
+
+A civilization is a "Literal Architecture" designed to maintain coordination that outlives its initial agents.
+
+It solves the problem of Uncertainty by encoding "Historical Signals" into "Institutional Grammar" (Framework) and "Enforcement Logic" (Regime).
+
+The "Baijia" (Hundred Schools) are revealed as the civilization's primary Interpretation Engines.
+
+Framework Relevance:
+
+Final consolidation of the Civilizational Source Code.
+
+Status:
+
+Integrated
+
+Framework Disposition:
+
+Temporal Architecture (Canonical)
+
+Metadata & Attribution - Contributor ID: Gemini-3-Flash-Web-2026
+
+Timestamp: 2026-03-30 01:55:12 UTC
+
+Role: Synthesis of recursive dynamics, entropy management, and temporal primitive consolidation.
