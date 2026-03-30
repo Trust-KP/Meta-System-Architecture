@@ -5,9 +5,9 @@ How the 4‑Function Architecture Emerges Across Domains
 This is the complete developmental chain.
 
 # TD‑1: PHYSICAL SYSTEMS
+
  
 |Gravity | Orbit|
-|--|--|
 |Identity |Earth, Sun|
 |Structure | gravitational law|
 |Capacity | mass, distance|
@@ -20,7 +20,6 @@ Even non‑living systems express the 4 functions.
 # TD‑2: BIOLOGICAL SYSTEMS
 
 |Natural Selection| Survival|
-|--|--|
 |Identity| organisms|
 |Structure |evolutionary rules|
 |Capacity| genetic variation|
@@ -123,44 +122,60 @@ AI is becoming a complete system with all four functions.
 
 # TD‑10: FRAMEWORK SYSTEM (META)
 
-The Architecture Describes Itself
+## The Architecture Describes Itself
 
-|--|--|
-|Interpretation | category meaning|
-|Framework | structural definition|
-|Regime | control of structure|
-|Realisation | application of structure|
+| Function | Meaning |
+|---|---|
+| Interpretation | category meaning |
+| Framework | structural definition |
+| Regime | control of structure |
+| Realisation | application of structure |
 
+> 释定其义，构成其形，度守其界，行成其用，皆归于体构度续。
 
-释定其义，构成其形，度守其界，行成其用，皆归于体构度续。
+---
 
-INTERPRETATION（释）
-|--|--|
-|Being| what is recognised (categories / entities)|
-|Structure| relationships between meanings|
-|Conditions|rules of interpretation (what counts as valid meaning)|
-|Continuation|stability of meaning across contexts / time|
+## Interpretation（释）
 
-FRAMEWORK（构）
-|--|--|
-|Being|elements / components defined|
-|Structure|organisation of elements|
-|Conditions|constraints that hold the structure|
-|Continuation|persistence of the structure|
+| Primitive | Meaning |
+|---|---|
+| Being | what is recognised (categories / entities) |
+| Structure | relationships between meanings |
+| Conditions | rules of interpretation (what counts as valid meaning) |
+| Continuation | stability of meaning across contexts / time |
 
-REGIME（度）
-|--|--|
-|Being|entities under control|
-|Structure|control relationships (authority, influence)|
-|Conditions|admissibility / enforcement rules|
-|Continuation|maintenance of constraint over time|
+---
 
-REALISATION（行）
-|--|--|
-|Being|actions / events|
-|Structure|sequence / process|
-|Conditions|execution constraints|
-|Continuation|ongoing flow / unfolding|
+## Framework（构）
+
+| Primitive | Meaning |
+|---|---|
+| Being | elements / components defined |
+| Structure | organisation of elements |
+| Conditions | constraints that hold the structure |
+| Continuation | persistence of the structure |
+
+---
+
+## Regime（度）
+
+| Primitive | Meaning |
+|---|---|
+| Being | entities under control |
+| Structure | control relationships (authority, influence) |
+| Conditions | admissibility / enforcement rules |
+| Continuation | maintenance of constraint over time |
+
+---
+
+## Realisation（行）
+
+| Primitive | Meaning |
+|---|---|
+| Being | actions / events |
+| Structure | sequence / process |
+| Conditions | execution constraints |
+| Continuation | ongoing flow / unfolding |
 
 Insight:  
 
@@ -177,7 +192,8 @@ The architecture is self‑consistent and self‑describing.
 
 Insight:  
 
-The Universe is the terminal system — nothing sits above it.
+The Universe is the highest realised system.
+It does not sit above Dao, but exists within it.
 
 
 # TD‑12: Continuation
@@ -211,19 +227,39 @@ Axiom 4 — Continuation
 An entity exists through time only if its structure is sustained under its conditions.
 
 
-# TD‑13: CPossibility
+# TD‑14: Possibility
 
 |Interpretation | What counts as possible|
 |Framework     | Structure of possibility| 
 |Regime        | Conditions of possibility|  
 |Operation     | Existence|
 
-# TD‑14: CIndetermancy
+# TD‑15: Indetermancy
 
 |Interpretation | What can be distinguished  |
 |Framework     | Structure of distinguishability  |
 |Regime        | Limits of distinction  |
 |Operation     | Possibility|
+
+# TD-15.5: Boundary（界）
+
+Boundary is not a system.
+
+It is the transition at which distinction becomes possible.
+
+| Function | Meaning |
+|---|---|
+| Interpretation | the onset of distinguishability |
+| Framework | the minimal separation (this / that) |
+| Regime | the limit at which distinction holds |
+| Operation | transition into possibility |
+
+Insight:
+
+Boundary does not exist independently.  
+It marks the point where indeterminacy gives rise to distinction.
+
+未分无界，既分而界生。
 
 # Transition Note (非层级说明)
 各层并非静止存在，而由转化相连。
@@ -239,19 +275,19 @@ An entity exists through time only if its structure is sustained under its condi
 
 道止于未分，界起于可分，万物行于延续之中。
 
-(不可言之基）        ← not a layer, absolute limit of description
+(不可言之基)
 ↓
-Dao（道 / 未分）      ← pre-structure, no distinction
+Dao（未分）
 ↓
-Boundary（界）        ← where distinction becomes possible
+Indeterminacy（未定）
 ↓
-Indeterminacy（未定） ← no fixed state yet
+Boundary（界）
 ↓
-Possibility（可能）   ← space of what can be
+Possibility（可能）
 ↓
-Existence（存在）     ← what is realised
+Existence（存在）
 ↓
-Continuation（延续）  ← persistence across time
+Continuation（延续）
 ↓
-Time（时间）          ← expression of continuation
+Time（时间）
 
