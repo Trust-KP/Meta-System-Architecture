@@ -102,7 +102,10 @@
 
 → 体系（complete system）
 
+明其道，成其象，守其理，立其度，行其用，衡其量。
+
 道定其模，象成其构，理设其参，行成其运。
+
 道 → Model  
 象 → Structure  
 理 → Parameters / Regime  
