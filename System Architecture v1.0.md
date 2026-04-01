@@ -1,5 +1,5 @@
 标题：
-系统结构论（System Architecture v1.0）
+系统结构论（System Structure Framework v1.0）
 
 作者：
 Kok Pian Gew
