@@ -291,3 +291,235 @@ Continuation（延续）
 ↓
 Time（时间）
 
+# TD-16: REALISATION BOUNDARY (+1 RULE)
+
+|Layer | Meaning|
+|--|--|
+|System | 释 / 构 / 度 / 行 (6 / 7 / 8 / 9 steps)|
+|+1 | Entry into realisation layer|
+
+Mapping:
+
+|Pillar | +1 Result|
+|--|--|
+|Interpretation（释） | 表征（representation）|
+|Framework（构） | 实体（entity）|
+|Regime（度） | 延续（continuation）|
+|Realisation（行） | 人（executor / carrier）|
+
+Insight:
+
++1 is not termination.  
+It is the transition from system mechanics to realised carriers.
+
+------------------------------------------------------------
+
+# TD-17: REALISATION LAYER
+
+|Element | Meaning|
+|--|--|
+|Carrier | what executes or holds the system|
+|Subject | what is constrained|
+|Executor | what performs action|
+|Bearer | what sustains structure|
+
+Examples:
+
+- Civilisation → human  
+- Economy → human  
+- Universe → physical entity / life  
+- Theory → cognitive agent  
+
+Insight:
+
+Realisation layer is system-dependent.
+
+------------------------------------------------------------
+
+# TD-18: HUMAN POSITION
+
+|Aspect | Role|
+|--|--|
+|Structure | node in system|
+|Regime | constrained subject|
+|Operation | executor|
+|Interpretation | recognised agent|
+
+Insight:
+
+Human is not a primitive of all systems.  
+Human is a realisation node.
+
+------------------------------------------------------------
+
+# TD-19: CONTINUATION DISCOVERY
+
+|Observation | Result|
+|--|--|
+|Regime +1 | → Continuation|
+|Constraint resolution | → survival / persistence|
+
+Insight:
+
+Continuation emerges from Regime, not Operation.
+
+------------------------------------------------------------
+
+# TD-20: OPERATION DISCOVERY
+
+|Observation | Result|
+|--|--|
+|Operation +1 | → Human (or carrier)|
+
+Insight:
+
+Action resolves to executor.
+
+------------------------------------------------------------
+
+# TD-21: CONDITIONAL CONVERGENCE
+
+|Path Type | Result|
+|--|--|
+|Operation path | → Human|
+|Regime path | → Continuation|
+|Structure path | → Entity|
+|Interpretation path | → Representation|
+
+Insight:
+
+Systems do not converge to one primitive.  
+They converge to different primitives depending on path.
+
+------------------------------------------------------------
+
+# TD-22: PATH NON-UNIQUENESS
+
+|Property | Description|
+|--|--|
+|Reversibility | exists|
+|Uniqueness | does not hold|
+|Termination | conditional|
+
+Insight:
+
+Multiple valid paths exist.  
+Not all paths reach the same endpoint.
+
+------------------------------------------------------------
+
+# TD-23: CROSS-PILLAR INTEGRATION
+
+|Mode | Description|
+|--|--|
+|Vertical | single pillar|
+|Traversal | multi-pillar|
+
+Insight:
+
+Human cannot be found via single-pillar descent.  
+Human appears via cross-pillar integration or realisation.
+
+------------------------------------------------------------
+
+# TD-24: UPWARD AGGREGATION
+
+|Direction | Result|
+|--|--|
+|Village / Economy / Country | → Civilisation|
+|Civilisation | → Meta-system|
+
+Insight:
+
+Systems aggregate upward into higher-order systems.
+
+------------------------------------------------------------
+
+# TD-25: REVERSE REALISATION
+
+|Direction | Result|
+|--|--|
+|Human → Universe | reachable|
+|Via 6/7/8/9 +1 | multiple valid paths|
+
+Insight:
+
+All pillars allow reverse mapping to foundational state.
+
+------------------------------------------------------------
+
+# TD-26: ENTITY RELATION
+
+|Relation | Meaning|
+|--|--|
+|Human ⊂ Entity | true|
+|Entity ≠ Human | true|
+
+Insight:
+
+Human is a specialised entity.
+
+------------------------------------------------------------
+
+# TD-27: SYSTEM-SPECIFIC REALISATION
+
+|System | Realisation|
+|--|--|
+|Civilisation | human|
+|Economy | human|
+|Universe | entity / life|
+|Theory | agent|
+
+Insight:
+
+Realisation primitive depends on system.
+
+------------------------------------------------------------
+
+# TD-28: FOUR PRIMITIVE PROJECTIONS
+
+|Pillar | Primitive|
+|--|--|
+|释 | 表征（meaning carrier）|
+|构 | 实体（entity）|
+|度 | 延续（continuation）|
+|行 | 执行者（agent / human）|
+
+Insight:
+
+There is no single primitive.  
+There are four primitive projections.
+
+------------------------------------------------------------
+
+# TD-29: SYSTEM RESOLUTION LAW
+
+System
+→ (6/7/8/9)
+→ +1
+→ Realisation Primitive
+
+Insight:
+
+All systems follow this resolution structure.
+
+------------------------------------------------------------
+
+# TD-30: META CONSISTENCY
+
+|Check | Result|
+|--|--|
+|Across domains | consistent|
+|Across directions | consistent|
+|Across scales | consistent|
+
+Insight:
+
+The architecture holds across:
+
+- physical  
+- biological  
+- social  
+- conceptual systems
+
+------------------------------------------------------------
