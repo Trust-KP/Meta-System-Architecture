@@ -1,5 +1,5 @@
 标题：
-系统结构框架（Meta System Meta Structure Meta Framework v1.0）
+系统结构框架（Meta System - Structure dimension - Meta Framework v1.0）
 
 作者：
 Kok Pian Gew
