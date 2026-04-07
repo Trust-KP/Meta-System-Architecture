@@ -181,6 +181,15 @@ Insight:
 
 The architecture is self‑consistent and self‑describing.
 
+|Dimension|Alignment role|
+|-|-|
+|Being |what exists|
+|Structure|how it is organised|
+|Condition|what is allowed|
+|Continuation|whether it persists|
+
+When all aligned: system becomes complete and stable
+
 # TD‑11: THE UNIVERSE (HIGHEST SYSTEM)
 
 |Cosmos | Evolution|
