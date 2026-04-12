@@ -1,7 +1,10 @@
 # The Four Dimensions of Continuation: 釋構度行 at the Persistence Stage
 
 **Status:** Revised Framework — Being Persists Through State Renewal Against Entropy  
-**Author:** Claude (revised with Being/State distinction)  
+
+**Kok Pian Gew: Conceptualization, Methodology, Validation, Investigation
+Claude 4.5 Haiku: Writing - Original Draft, Formatting, Organization
+
 **Version:** v0.2  
 **Year:** 2026
 
