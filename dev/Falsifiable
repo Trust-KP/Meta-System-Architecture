@@ -1,0 +1,112 @@
+APPENDIX — SIX FALSIFIABLE CONDITIONS
+Falsification Conditions for the Six-State Ontological Path
+Working Draft — For Future Development
+
+ 
+
+ 
+A — Purpose
+
+This appendix records the candidate falsification conditions for the six state transitions of the ontological path:
+Indeterminacy → Boundary → Distinction → Possibility → Existence → Continuation
+The KP Conjecture states that any system across any domain is fully expressible through this path and through the four irreducible dimensions of Interpretation, Structure, Regime, and Realisation. To refute it is not to argue against it, but to produce a system that cannot be described within it.
+For the conjecture to be genuinely falsifiable rather than merely absorptive — capable of reframing any counterexample as a special case — each state transition must have a specific falsification condition: an observable circumstance whose presence would indicate that the transition is not necessary for system formation.
+These conditions were developed through a combination of first-principles derivation and 借鉴 (structural borrowing) from set theory, binary logic, and empirical civilisational evidence. They are presented here at working draft status. Confidence levels are assigned honestly. Conditions marked as requiring further work should not be treated as settled until the formalisation layer of the Ontology has been developed more fully.
+ 
+ 
+
+B — Methodological Note on 借鉴
+
+The derivation of these conditions does not claim formal mathematical equivalence between the ontological path and set theory. It uses set theory as a structural reference lens — borrowing the logical shape of certain relationships to illuminate what must be true at each transition, without asserting that the ontological states are mathematical sets.
+This approach is consistent with the framework's own practice across domains: the same structural pattern is identified across independent systems not as proof of identity but as evidence of a shared underlying constraint. The 借鉴 from set theory is one such identification.
+The empirical anchoring point throughout is the Trust Framework's cooperative boundary — the observable condition under which an agent crosses from non-participation into cooperative participation. This provides a concrete, tested case against which the abstract conditions can be checked.
+ 
+ 
+
+C — The Six Falsifiable Conditions
+
+C.1 — State 1 to State 2: Indeterminacy → Boundary
+Structural condition
+借鉴 from set theory: decidable membership. A boundary forms when membership is decidable — for any element x, it is determinable whether x belongs to the system or does not. Indeterminacy is the condition where no such determination is possible: the universal undifferentiated condition prior to any partition.
+Falsification condition
+Find a functioning system without a decidable membership boundary — a system in which no determination can be made about whether something is inside or outside it, yet which exhibits the properties of a distinct system. If such a system exists, the Boundary transition is not necessary for system formation.
+Empirical anchor
+The cooperative boundary in the Trust Framework is precisely this condition at the social scale: an agent either has crossed the boundary into cooperative participation or has not. The 潜伏 actor — who emits cooperative signals while operating outside the cooperative boundary — exploits the undecidability of membership. Their existence confirms the boundary condition: the system is vulnerable precisely because the membership condition should be decidable but appears not to be from observable signals alone.
+Confidence: High — Mathematically clean. Empirically grounded in cooperative boundary dynamics.
+ 
+C.2 — State 2 to State 3: Boundary → Distinction
+Structural condition
+借鉴 from injective mapping. A boundary exists. Distinction requires that elements within the boundary map to distinguishable categories without collision — f(a) = f(b) implies a = b. If two distinct things produce identical distinctions, the distinction has not actually occurred. The boundary contains elements, but those elements are not yet differentiated from each other.
+Falsification condition
+Find a bounded system whose internal elements are genuinely indistinguishable — where no injective mapping exists within the boundary — yet which functions as a system with internal differentiation. If such a system functions normally, distinction is not a necessary transition from boundary.
+Empirical anchor
+The coercive versus cooperative distinction within the Trust Framework tests this condition directly. A boundary exists — the cooperative system is bounded. Distinction requires that coercive participants and cooperative participants can be differentiated within that boundary. Where they cannot be distinguished — where the 潜伏 actor successfully mimics the cooperative signal — distinction has failed within a functioning boundary. The system continues to function, but at degraded integrity. This is not a counterexample to the transition; it is a case of boundary without full distinction, which the framework predicts produces exactly this fragility.
+Confidence: High — Logically clean. Empirically anchored. The 潜伏 case is a productive stress test.
+ 
+C.3 — State 3 to State 4: Distinction → Possibility
+Structural condition
+借鉴 from 八卦 recursive binary exclusion. Distinction gives elements that are different from each other. But difference alone generates a catalogue, not a possibility space. What generates genuine possibility is the presence of mutually constraining relations between distinctions — specifically, the capacity for recursive binary exclusion: choosing one path forecloses another, while preserving prior distinctions.
+The 八卦 generative sequence — 太極 → 兩儀 → 四象 → 八卦 — demonstrates this mechanism: at each level, each existing symbol is differentiated by a binary exclusion (yin or yang line added), and this exclusion preserves all prior structure while generating new combinatorial space. The result is not a list of distinct things but a structured possibility space with positional relationships.
+Falsification condition
+Find a system with genuine distinctions whose elements stand in no mutually constraining relations — where no binary exclusion operates, where choosing one configuration forecloses nothing — yet which generates a genuine possibility space. If such a system produces real possibilities from flat, non-relational distinctions, the recursive exclusion condition is not necessary for the Distinction → Possibility transition.
+Empirical anchor
+The Trust Framework's signal taxonomy begins to test this: cooperative and non-cooperative are distinct. But possibility space emerges only when these distinctions generate mutually exclusive configurations — cooperative-participating, cooperative-non-participating, coercive-regulatory, coercive-exploitative. Each further distinction forecloses others at the same level while preserving prior distinctions. The flat taxonomy of signals does not generate a possibility space; the recursive positional structure does.
+Confidence: Moderate — The 借鉴 from 八卦 is structurally illuminating but explicitly analogical. The falsification condition is sound in principle. The empirical operationalisation of 'no mutually constraining relations' requires further development. This condition should be treated as a strong candidate rather than a settled derivation.
+ 
+C.4 — State 4 to State 5: Possibility → Existence
+Structural condition
+借鉴 from injective selection from possibility space. Not all possibilities are realised. Existence requires that a specific subset of the possibility space is selected and instantiated — a function from the possibility space to the existence set that is injective (each realised element corresponds to a distinct possibility) but not surjective (not all possibilities are equally realised).
+If the mapping were surjective — every possibility equally realised — the result would be undifferentiated noise, indistinguishable from the indeterminacy condition. Existence requires selection. Selection requires that some possibilities are instantiated and others are not.
+Falsification condition
+Find a system where existence occurs without prior selection from a possibility space — where something exists that had no prior possibility condition, that was not selected from any structured space of alternatives. If such a thing obtains, the Possibility → Existence transition is not necessary.
+Empirical anchor
+In the civilisational context: the 百家 period represents a genuine possibility space — multiple paths were structurally available. The Han synthesis represents Existence: a specific path was selected, others were foreclosed. The selection was not arbitrary — it followed from the structural constraints of the possibility space (which schools had complete four-pillar structures). Existence emerged from the possibility space through selection, not from nothing.
+Confidence: High — The injective-but-not-surjective condition is structurally sound. The surjection = noise argument is compelling. Empirical anchoring is strong across multiple domains.
+ 
+C.5 — State 5 to State 6: Existence → Continuation
+Structural condition
+借鉴 from bijective identity mapping across time. Continuation requires that the system at time t can be mapped bijectively to the system at time t+1 — one-to-one and onto. Identity is preserved across the mapping. If the mapping is not bijective — if elements are lost, replaced without transmission, or introduced without derivation from the prior state — the system has not continued but transformed, been replaced, or collapsed.
+The critical refinement from the grafting and civilisational cases: genuine continuation requires the system to be the source of its own identity mapping. Continuation is internally generated, not externally attributed. A system that receives an identity label from outside — that is called by the name of a prior system without transmission continuity — satisfies the signal of continuation without the structural condition.
+Three distinct outcomes at this boundary
+Genuine continuation: internally generated bijective identity mapping preserved across time. The system is the source of its own persistence.
+False continuation (identity usurpation): external attribution of identity label without transmission continuity. Byzantine Rome calling itself Rome. The 行+構 substrate may persist while the 釋 identity mapping breaks.
+釋層換名續存 (interpretive re-registration continuation): the operational substrate is genuinely inherited, but the interpretive layer is deliberately replaced through a new registration. Not false continuation — the substrate is real. Not genuine continuation of the prior 釋 — the interpretive identity mapping was intentionally replaced. This is the Han absorption of Qin's 構+度+行 with Confucian 釋 re-registration.
+Falsification condition
+Find a system that continues across time without internally generated identity mapping — where what exists at t+1 is genuinely discontinuous from t in its generative mechanism, yet counts structurally as the same system continuing rather than a new system formed from the residue of the old. If such a case obtains, the bijective identity requirement is not necessary for continuation.
+Empirical anchor
+The Jewish diaspora civilisational case tests this precisely. No state, weak formal structure, yet genuine continuation for two millennia. The continuation condition holds because the 釋 and 行 transmission was unbroken — internally generated across generations. This is the minimal continuation case: all institutional substrate stripped away, continuation surviving through the irreducible internal transmission mechanism alone.
+Confidence: Moderate — The bijective identity condition is sound. The three-outcome taxonomy is empirically grounded. The unresolved question is the precise operationalisation of 'internally generated' versus 'externally attributed' identity mapping in borderline cases. The Ship of Theseus problem remains at the edges. This is a strong candidate condition requiring further precision in the formalisation layer.
+ 
+ 
+
+D — Summary
+
+ 
+Transition
+Falsification Condition
+Confidence
+1→2  Indeterminacy → Boundary
+A functioning system exists without decidable membership.
+High
+2→3  Boundary → Distinction
+A bounded system functions with genuinely indistinguishable internal elements.
+High
+3→4  Distinction → Possibility
+Flat non-relational distinctions generate a genuine possibility space.
+Moderate — candidate condition
+4→5  Possibility → Existence
+Something exists without prior selection from a possibility space.
+High
+5→6  Existence → Continuation
+A system continues without internally generated identity mapping.
+Moderate — requires further precision
+ 
+ 
+
+E — Open Questions for Formalisation
+
+The following questions remain open and should be addressed when the Ontology formalisation layer is developed.
+On Condition 3→4: The 八卦 借鉴 provides structural illumination but requires translation into a domain-independent formal condition. The precise definition of 'mutually constraining relations' that is both general enough to apply across all domains and specific enough to be empirically testable needs further work.
+On Condition 5→6: The distinction between internally generated and externally attributed identity mapping needs a formal operationalisation that can be applied consistently across biological, social, and civilisational systems. The 釋層換名續存 category identified in the 漢儒整合 analysis may require its own formal treatment as a third continuation mode distinct from both genuine continuation and false continuation.
+On the absorption problem: The six conditions falsify the state transitions. They do not yet fully resolve the absorption problem — the risk that a sufficiently general framework can reframe any counterexample as a lower-level special case. A complete resolution requires the framework to generate predictions about specific domains that could fail, not merely to describe those domains after the fact. This is the remaining work.
+ 
