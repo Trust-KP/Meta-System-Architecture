@@ -126,21 +126,95 @@
 
 # 7. Practical Applications
 
-## 7.1 Broker Commission
+## 7.1 Broker Commission and Distribution Costs
 
-## 7.2 Claims Handling
+### 7.1.1 Broker Commission
 
-## 7.3 Underwriting Operations
+### 7.1.2 Acquisition Resource Consumption
 
-## 7.4 Reinsurance Placement
+### 7.1.3 Expected and Unexpected Distribution Costs
 
-## 7.5 Shared Services
+---
 
-## 7.6 Actuarial Function
+## 7.2 Fronting Arrangements
 
-## 7.7 Risk and Compliance Functions
+### 7.2.1 Operational Obligations Retained by the Fronting Carrier
+
+### 7.2.2 Operational Obligations Delegated to the Fronted Party
+
+### 7.2.3 Governance Resource Consumption
+
+### 7.2.4 Operational Deviation and Counterparty Failure
+
+---
+
+## 7.3 Binding Authority and Coverholder Arrangements
+
+### 7.3.1 Delegated Acquisition and Underwriting Activities
+
+### 7.3.2 Externalised Operational Resources
+
+### 7.3.3 Operational Deviation from Underwriting Quality
+
+### 7.3.4 Governance and Oversight Costs
+
+---
+
+## 7.4 Facultative Reinsurance
+
+### 7.4.1 Placement Activities
+
+### 7.4.2 Broking and Negotiation Resources
+
+### 7.4.3 Expected Placement Cost
+
+### 7.4.4 Resource Consumption Under Market Dislocation
+
+---
+
+## 7.5 Adverse Development Covers
+
+### 7.5.1 Reserve Deterioration as Prior Operational Deviation
+
+### 7.5.2 Operational Obligations Created by ADC Structures
+
+### 7.5.3 Monitoring and Reporting Resources
+
+### 7.5.4 Financial Responses to Operational Deviation
+
+---
+
+## 7.6 Sidecars and Third-Party Capital
+
+### 7.6.1 Investor Reporting Obligations
+
+### 7.6.2 Collateral Management
+
+### 7.6.3 Capital Provider Resource Consumption
+
+### 7.6.4 Operational Equilibrium of Capacity Structures
+
+---
+
+## 7.7 Claims Operations
+
+### 7.7.1 Expected Claims Resource Consumption
+
+### 7.7.2 Complex and Litigated Claims
+
+### 7.7.3 Operational Loss Emergence
+
+---
 
 ## 7.8 Capital Management Activities
+
+### 7.8.1 Capital as a Risk-Support Resource
+
+### 7.8.2 Expected Capital Consumption
+
+### 7.8.3 Rating Agency Operational Assessments
+
+### 7.8.4 Capital Strain and Operational Deviation
 
 ---
 
