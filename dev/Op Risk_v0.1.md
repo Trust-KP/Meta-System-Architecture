@@ -6,286 +6,250 @@
 
 # 1. Introduction
 
-## 1.1 Background
-
-## 1.2 IFRS 17 and the Operational Expense Attribution Challenge
-
-## 1.3 Operational Risk Capital and the Attribution Gap
-
-## 1.4 Existing Disconnects Between Accounting, Risk and Capital Frameworks
-
-## 1.5 Objectives of this Paper
-
-## 1.6 Summary of Contributions
-
----
-
 # 2. First Principles
 
 ## 2.1 Insurance Contracts as Operational Obligations
 
-## 2.2 Contract Fulfilment and Resource Consumption
+## 2.2 Operational Obligations and Resource Consumption
 
-## 2.3 Operational Obligations Created by Insurance Contracts
+## 2.3 Expected Resource Consumption
 
-### 2.3.1 Acquisition Obligations
+## 2.4 Operational Deviation
 
-### 2.3.2 Maintenance Obligations
-
-### 2.3.3 Fulfilment Obligations
-
-### 2.3.4 Governance Obligations
-
-## 2.4 Expected Resource Consumption
-
-## 2.5 Attributable Operational Cost
-
-## 2.6 Operational Deviation
-
-## 2.7 Operational Risk as Deviation from Expected Resource Consumption
+## 2.5 Operational Risk
 
 ---
 
-# 3. Current Practice
+# 3. Operational Obligation Framework
 
-## 3.1 IFRS 17 Expense Attribution
+## 3.1 Acquisition Obligations
 
-## 3.2 Operational Risk Measurement
+## 3.2 Maintenance Obligations
 
-## 3.3 Rating Agency Operational Risk Assessment
+## 3.3 Fulfilment Obligations
 
-## 3.4 Management Expense Allocation
-
-## 3.5 Limitations of Current Approaches
+## 3.4 Governance Obligations
 
 ---
 
-# 4. Operational Resource Framework
+# 4. Resource Framework
 
-## 4.1 Operational Activities
+## 4.1 Internal Resources
 
-## 4.2 Operational Resources
+## 4.2 External Resources
 
-### 4.2.1 Internal Resources
+## 4.3 Shared Governance Resources
 
-### 4.2.2 External Resources
+## 4.4 Capital Support Resources
 
-### 4.2.3 Governance Resources
-
-### 4.2.4 Risk-Support Resources
-
-## 4.3 Operational Consumption Units
-
-## 4.4 Resource Attribution
-
-## 4.5 Resource Allocation Hierarchy
-
-## 4.6 Portfolio-Level Attribution
-
-## 4.7 Entity-Level Attribution
+## 4.5 Resource Attribution
 
 ---
 
-# 5. Formalisation
-
-## 5.1 Operational Resource Measure
-
-## 5.2 Expected Operational Resource Consumption
-
-## 5.3 Operational Cost Attribution
-
-## 5.4 Operational Deviation Measure
-
-## 5.5 Operational Loss Emergence
-
-## 5.6 Operational Loss Distribution
-
-## 5.7 Capital Emergence from Tail Deviation
-
-## 5.8 Mean and Tail Interpretation
-
-## 5.9 Expected Operational Cost and Expected Operational Risk
+# 7. Current Practice
 
 ---
 
-# 6. Governance Framework
+# 6. Formalisation
 
-## 6.1 Ownership of Operational Activities
+## 6.1 Operational Resource Measure
 
-## 6.2 Attribution Governance
+## 6.2 Expected Operational Resource Consumption
 
-## 6.3 Resource Governance
+## 6.3 Operational Cost Attribution
 
-## 6.4 Operational Risk Governance
+## 6.4 Operational Deviation Measure
 
-## 6.5 Monitoring and Escalation
+## 6.5 Operational Loss Emergence
 
-## 6.6 Model Governance
+## 6.6 Operational Loss Distribution
 
----
+## 6.7 Capital Emergence from Tail Deviation
 
-# 7. Practical Applications
+## 6.8 Mean and Tail Interpretation
 
-## 7.1 Broker Commission and Distribution Costs
-
-### 7.1.1 Broker Commission
-
-### 7.1.2 Acquisition Resource Consumption
-
-### 7.1.3 Expected and Unexpected Distribution Costs
+## 6.9 Expected Operational Cost and Expected Operational Risk
 
 ---
 
-## 7.2 Fronting Arrangements
+# 7. Governance Framework
 
-### 7.2.1 Operational Obligations Retained by the Fronting Carrier
+## 7.1 Ownership of Operational Activities
 
-### 7.2.2 Operational Obligations Delegated to the Fronted Party
+## 7.2 Attribution Governance
 
-### 7.2.3 Governance Resource Consumption
+## 7.3 Resource Governance
 
-### 7.2.4 Operational Deviation and Counterparty Failure
+## 7.4 Operational Risk Governance
 
----
+## 7.5 Monitoring and Escalation
 
-## 7.3 Binding Authority and Coverholder Arrangements
-
-### 7.3.1 Delegated Acquisition and Underwriting Activities
-
-### 7.3.2 Externalised Operational Resources
-
-### 7.3.3 Operational Deviation from Underwriting Quality
-
-### 7.3.4 Governance and Oversight Costs
+## 7.6 Model Governance
 
 ---
 
-## 7.4 Facultative Reinsurance
+# 8. Practical Applications
 
-### 7.4.1 Placement Activities
+## 8.1 Broker Commission and Distribution Costs
 
-### 7.4.2 Broking and Negotiation Resources
+### 8.1.1 Broker Commission
 
-### 7.4.3 Expected Placement Cost
+### 8.1.2 Acquisition Resource Consumption
 
-### 7.4.4 Resource Consumption Under Market Dislocation
-
----
-
-## 7.5 Adverse Development Covers
-
-### 7.5.1 Reserve Deterioration as Prior Operational Deviation
-
-### 7.5.2 Operational Obligations Created by ADC Structures
-
-### 7.5.3 Monitoring and Reporting Resources
-
-### 7.5.4 Financial Responses to Operational Deviation
+### 8.1.3 Expected and Unexpected Distribution Costs
 
 ---
 
-## 7.6 Sidecars and Third-Party Capital
+## 8.2 Fronting Arrangements
 
-### 7.6.1 Investor Reporting Obligations
+### 8.2.1 Operational Obligations Retained by the Fronting Carrier
 
-### 7.6.2 Collateral Management
+### 8.2.2 Operational Obligations Delegated to the Fronted Party
 
-### 7.6.3 Capital Provider Resource Consumption
+### 8.2.3 Governance Resource Consumption
 
-### 7.6.4 Operational Equilibrium of Capacity Structures
-
----
-
-## 7.7 Claims Operations
-
-### 7.7.1 Expected Claims Resource Consumption
-
-### 7.7.2 Complex and Litigated Claims
-
-### 7.7.3 Operational Loss Emergence
+### 8.2.4 Operational Deviation and Counterparty Failure
 
 ---
 
-## 7.8 Capital Management Activities
+## 8.3 Binding Authority and Coverholder Arrangements
 
-### 7.8.1 Capital as a Risk-Support Resource
+### 8.3.1 Delegated Acquisition and Underwriting Activities
 
-### 7.8.2 Expected Capital Consumption
+### 8.3.2 Externalised Operational Resources
 
-### 7.8.3 Rating Agency Operational Assessments
+### 8.3.3 Operational Deviation from Underwriting Quality
 
-### 7.8.4 Capital Strain and Operational Deviation
+### 8.3.4 Governance and Oversight Costs
 
 ---
 
-# 8. Implementation Roadmap
+## 8.4 Facultative Reinsurance
+
+### 8.4.1 Placement Activities
+
+### 8.4.2 Broking and Negotiation Resources
+
+### 8.4.3 Expected Placement Cost
+
+### 8.4.4 Resource Consumption Under Market Dislocation
+
+---
+
+## 8.5 Adverse Development Covers
+
+### 8.7.1 Reserve Deterioration as Prior Operational Deviation
+
+### 8.7.2 Operational Obligations Created by ADC Structures
+
+### 8.7.3 Monitoring and Reporting Resources
+
+### 8.7.4 Financial Responses to Operational Deviation
+
+---
+
+## 8.6 Sidecars and Third-Party Capital
+
+### 8.7.1 Investor Reporting Obligations
+
+### 8.7.2 Collateral Management
+
+### 8.7.3 Capital Provider Resource Consumption
+
+### 8.7.4 Operational Equilibrium of Capacity Structures
+
+---
+
+## 8.7 Claims Operations
+
+### 8.7.1 Expected Claims Resource Consumption
+
+### 8.7.2 Complex and Litigated Claims
+
+### 8.7.3 Operational Loss Emergence
+
+---
+
+## 8.8 Capital Management Activities
+
+### 8.9.1 Capital as a Risk-Support Resource
+
+### 8.9.2 Expected Capital Consumption
+
+### 8.9.3 Rating Agency Operational Assessments
+
+### 8.9.4 Capital Strain and Operational Deviation
+
+---
+
+# 9. Implementation Roadmap
 
 ## Phase 1 — Operational Expense Attribution
 
-### 8.1 Existing Cost Centre Mapping
+### 9.1 Existing Cost Centre Mapping
 
-### 8.2 Resource Consumption Mapping
+### 9.2 Resource Consumption Mapping
 
-### 8.3 IFRS 17 Expense Attribution
+### 9.3 IFRS 17 Expense Attribution
 
-### 8.4 Management Reporting
+### 9.4 Management Reporting
 
-### 8.5 Performance Attribution
+### 9.5 Performance Attribution
 
 ---
 
 ## Phase 2 — Operational Risk Attribution
 
-### 8.6 Operational Deviation Measurement
+### 9.6 Operational Deviation Measurement
 
-### 8.7 Operational Loss Attribution
+### 9.7 Operational Loss Attribution
 
-### 8.8 Operational Risk Metrics
+### 9.8 Operational Risk Metrics
 
-### 8.9 Operational Capital Attribution
+### 9.9 Operational Capital Attribution
 
 ---
 
 ## Phase 3 — Advanced Operational Risk Modelling
 
-### 8.10 State-Based Operational Models
+### 9.10 State-Based Operational Models
 
-### 8.11 Operational Signal Sets
+### 9.11 Operational Signal Sets
 
-### 8.12 Transition Structures
+### 9.12 Transition Structures
 
-### 8.13 Stochastic Simulation
+### 9.13 Stochastic Simulation
 
-### 8.14 Internal Model Integration
+### 9.14 Internal Model Integration
 
-### 8.15 SCR Attribution
-
----
-
-# 9. Extensions
-
-## 9.1 IFRS 17 Reporting
-
-## 9.2 GAAP Expense Allocation
-
-## 9.3 Tax Attribution
-
-## 9.4 Amortisation Frameworks
-
-## 9.5 Rating Agency Capital
-
-## 9.6 Enterprise Performance Management
-
-## 9.7 Future State-Based Frameworks
+### 9.15 SCR Attribution
 
 ---
 
-# 10. Conclusions
+# 10. Extensions
 
-## 10.1 Summary of Findings
+## 10.1 IFRS 17 Reporting
 
-## 10.2 Practical Benefits
+## 10.2 GAAP Expense Allocation
 
-## 10.3 Limitations
+## 10.3 Tax Attribution
 
-## 10.4 Future Research
+## 10.4 Amortisation Frameworks
+
+## 10.5 Rating Agency Capital
+
+## 10.6 Enterprise Performance Management
+
+## 10.7 Future State-Based Frameworks
+
+---
+
+# 11. Conclusions
+
+## 11.1 Summary of Findings
+
+## 11.2 Practical Benefits
+
+## 11.3 Limitations
+
+## 11.4 Future Research
