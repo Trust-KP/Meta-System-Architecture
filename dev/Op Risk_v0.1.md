@@ -8,11 +8,13 @@ Operational expense attribution and operational risk capital are currently treat
 
 This paper proposes a unified operational resource framework grounded in a single first principle: an insurance contract is not only a financial obligation but also an operational obligation, requiring the consumption of resources across acquisition, maintenance, fulfilment and governance activities. These obligations are delivered through two distinct layers: an Insurance Service Layer comprising activities directly attributable to individual contract groups, and an Operational Support Layer comprising institution-level activities required to sustain service delivery across the portfolio.
 
-Within this framework, expected resource consumption gives rise to operational expense attribution. Deviations from expected resource consumption give rise to operational loss. The tail of the operational deviation distribution gives rise to operational risk capital. Operational expense attribution and operational risk capital therefore emerge from the same underlying resource measurement framework rather than from separate frameworks. As a consequence, expected operational risk equals expected operational cost, providing a consistency relationship that is absent from current practice.
+Within this framework, expected resource consumption gives rise to operational expense attribution. Operational risk arises when realised resource consumption deviates from the level required to sustain the intended delivery of insurance services. The tail of that deviation distribution gives rise to operational risk capital. Operational expense attribution and operational risk capital therefore emerge from the same underlying resource measurement framework rather than from separate frameworks. As a consequence, expected operational risk equals expected operational cost, providing a consistency relationship that is absent from current practice.
 
 The framework operates across both insurance service and reinsurance activities, providing a consistent basis for attributing operational costs associated with policy fulfilment, reinsurance placement and recovery. It also makes visible and attributable sources of operational uncertainty that are currently embedded implicitly within technical assumptions, including parameter risk loadings in stochastic reserving and process risk adjustments in actuarial assumptions.
 
-The framework is illustrated across major operational structures in general insurance, including broker distribution, delegated underwriting authority, fronting arrangements, facultative reinsurance placement and third-party capital structures, without requiring structural modification to the underlying framework. A three-phase implementation roadmap is provided. Phase 1 delivers IFRS 17 expense attribution using existing cost-centre data. Phase 2 introduces operational deviation measurement and operational risk capital attribution. Phase 3 extends the framework to state-based stochastic operational risk modelling and internal model integration. The framework further provides a foundation for future extensions into strategic capital planning, where theoretical capital derived from the same contractual and operational state may be used to assess latent capital commitments before they emerge in reported capital metrics.
+The framework is illustrated across major operational structures in general insurance, including broker distribution, delegated underwriting authority, fronting arrangements, facultative reinsurance placement and third-party capital structures, without requiring 
+structural modification to the underlying framework. A three-phase implementation roadmap is provided, progressing from IFRS 17 expense attribution using existing cost-centre data through operational deviation measurement and capital attribution to state-based stochastic operational risk modelling and internal model integration. The framework further provides a foundation for future extensions into strategic 
+capital planning, where theoretical capital derived from the same contractual and operational state may be used to assess latent capital commitments before they emerge in reported capital metrics.
 
 ---
 
@@ -29,7 +31,9 @@ The framework is presented in this paper through the practical problem of operat
 
 ## 2.3 Expected Resource Consumption
 
-## 2.4 Operational Deviation
+## 2.4 Operational Risk as Deviation from Expected Fulfilment
+
+Operational risk arises when realised resource consumption deviates from the level required to sustain the intended delivery of insurance services.
 
 ## 2.5 Operational Risk
 
@@ -63,6 +67,7 @@ The framework is presented in this paper through the practical problem of operat
 
 # 5. Current Practice
 
+
 ---
 
 # 6. Formalisation
@@ -84,6 +89,12 @@ The framework is presented in this paper through the practical problem of operat
 ## 6.8 Mean and Tail Interpretation
 
 ## 6.9 Expected Operational Cost and Expected Operational Risk
+
+## 6.10 Sources of Operational Deviation
+Degradation
+Shock
+Representation Error
+Expectation Failure
 
 ---
 
