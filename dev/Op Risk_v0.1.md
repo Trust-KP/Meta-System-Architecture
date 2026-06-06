@@ -2,9 +2,24 @@
 
 ## A Unified Framework for IFRS 17 Expense Attribution and Operational Risk Capital in General Insurance
 
+# Abstract
+
+Operational expense attribution and operational risk capital are currently treated as separate problems in general insurance practice. IFRS 17 requires the systematic and rational attribution of directly attributable expenses to insurance contract groups but does not prescribe a methodology for doing so. Operational risk frameworks separately estimate capital requirements for operational failure without connecting those estimates to the operational expense base they are intended to protect. Despite both measuring consequences of the same underlying operational system, no common framework currently links them.
+
+This paper proposes a unified operational resource framework grounded in a single first principle: an insurance contract is not only a financial obligation but also an operational obligation, requiring the consumption of resources across acquisition, maintenance, fulfilment and governance activities. These obligations are delivered through two distinct layers: an Insurance Service Layer comprising activities directly attributable to individual contract groups, and an Operational Support Layer comprising institution-level activities required to sustain service delivery across the portfolio.
+
+Within this framework, expected resource consumption gives rise to operational expense attribution. Deviations from expected resource consumption give rise to operational loss. The tail of the operational deviation distribution gives rise to operational risk capital. Operational expense attribution and operational risk capital therefore emerge from the same underlying resource measurement framework rather than from separate frameworks. As a consequence, expected operational risk equals expected operational cost, providing a consistency relationship that is absent from current practice.
+
+The framework operates across both insurance service and reinsurance activities, providing a consistent basis for attributing operational costs associated with policy fulfilment, reinsurance placement and recovery. It also makes visible and attributable sources of operational uncertainty that are currently embedded implicitly within technical assumptions, including parameter risk loadings in stochastic reserving and process risk adjustments in actuarial assumptions.
+
+The framework is illustrated across major operational structures in general insurance, including broker distribution, delegated underwriting authority, fronting arrangements, facultative reinsurance placement and third-party capital structures, without requiring structural modification to the underlying framework. A three-phase implementation roadmap is provided. Phase 1 delivers IFRS 17 expense attribution using existing cost-centre data. Phase 2 introduces operational deviation measurement and operational risk capital attribution. Phase 3 extends the framework to state-based stochastic operational risk modelling and internal model integration. The framework further provides a foundation for future extensions into strategic capital planning, where theoretical capital derived from the same contractual and operational state may be used to assess latent capital commitments before they emerge in reported capital metrics.
+
 ---
 
 # 1. Introduction
+
+
+The framework is presented in this paper through the practical problem of operational expense attribution and operational risk capital. However, the underlying structure is more general. By establishing a common measurement basis for expected operational resource consumption and its deviations, the framework provides a foundation for future extensions into strategic capital planning, portfolio emergence analysis and long-term capital management. These extensions are discussed briefly in Section 10 but are not required for implementation of the framework presented here.
 
 # 2. First Principles
 
@@ -46,7 +61,7 @@
 
 ---
 
-# 7. Current Practice
+# 5. Current Practice
 
 ---
 
@@ -138,25 +153,25 @@
 
 ## 8.5 Adverse Development Covers
 
-### 8.7.1 Reserve Deterioration as Prior Operational Deviation
+### 8.5.1 Reserve Deterioration as Prior Operational Deviation
 
-### 8.7.2 Operational Obligations Created by ADC Structures
+### 8.5.2 Operational Obligations Created by ADC Structures
 
-### 8.7.3 Monitoring and Reporting Resources
+### 8.5.3 Monitoring and Reporting Resources
 
-### 8.7.4 Financial Responses to Operational Deviation
+### 8.5.4 Financial Responses to Operational Deviation
 
 ---
 
 ## 8.6 Sidecars and Third-Party Capital
 
-### 8.7.1 Investor Reporting Obligations
+### 8.6.1 Investor Reporting Obligations
 
-### 8.7.2 Collateral Management
+### 8.6.2 Collateral Management
 
-### 8.7.3 Capital Provider Resource Consumption
+### 8.6.3 Capital Provider Resource Consumption
 
-### 8.7.4 Operational Equilibrium of Capacity Structures
+### 8.6.4 Operational Equilibrium of Capacity Structures
 
 ---
 
@@ -172,13 +187,15 @@
 
 ## 8.8 Capital Management Activities
 
-### 8.9.1 Capital as a Risk-Support Resource
+### 8.8.1 Capital as a Risk-Support Resource
 
-### 8.9.2 Expected Capital Consumption
+### 8.8.2 Expected Capital Consumption
 
-### 8.9.3 Rating Agency Operational Assessments
+### 8.8.3 Rating Agency Operational Assessments
 
-### 8.9.4 Capital Strain and Operational Deviation
+### 8.8.4 Capital Strain and Operational Deviation
+
+## 8.9 Reinsurance Recoveries and Outwards Operational Attribution.
 
 ---
 
@@ -240,7 +257,21 @@
 
 ## 10.6 Enterprise Performance Management
 
-## 10.7 Future State-Based Frameworks
+## 10.7 Strategic Extension: Theoretical Capital and GI Balance-Sheet Emergence
+
+The operational resource framework may be extended beyond expense attribution and operational risk capital to a broader balance-sheet emergence framework.
+
+Under this extension, the insurer distinguishes between actual, projected and theoretical states of the portfolio. The theoretical state represents the mature steady-state position implied by the current written premium, expected loss ratio, reserve emergence pattern and capital model assumptions.
+
+This produces theoretical premium, theoretical reserve, theoretical margin and theoretical capital.
+
+Theoretical capital can then be compared with available capital to identify latent headroom consumption before it emerges in reported capital metrics. This provides a forward-looking traffic-light framework for capital headroom deterioration.
+
+The same view may support a GI analogue of asset-liability management, where investment strategy is informed not only by booked reserve duration, but also by the theoretical reserve and capital support profile of the business.
+
+The theoretical capital profile is derived from the same expected Insurance Service Layer and Operational Support Layer that gives rise to operational cost attribution, operational loss distributions and capital requirements. Consequently, the framework maintains consistency between operational expense allocation, operational risk capital, and the long-term capital commitment embedded within the written portfolio. 
+
+Theoretical capital therefore represents the steady-state capital support implied by the current contractual and operational structure of the portfolio, while deviations emerge through the unfolding of actual experience over time.
 
 ---
 
