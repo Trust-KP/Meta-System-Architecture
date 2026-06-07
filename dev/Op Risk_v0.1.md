@@ -28,9 +28,11 @@ In practice, the attribution of operational expenses to contract groups presents
 
 Non-directly attributable general and administrative expenses fall outside the insurance service result entirely under current guidance, creating a structural gap between the operational cost of running the business and the reported cost of fulfilling insurance contracts.
 
-[ANCHOR: Insert practitioner evidence of attribution inconsistency — 
-survey data, TRG submissions, or implementation studies showing 
-divergence in current GI practice]
+[REFERENCE REQUIRED:
+IFRS 17 implementation guidance,
+TRG discussions,
+or practitioner surveys showing
+variation in attribution approaches]
 
 The consequence is that fulfilment cash flows used in the measurement of insurance contract liabilities, the identification of onerous contracts, and the determination of the contractual service margin are systematically incomplete. Contract groups whose fulfilment requires high operational intensity carry insufficient expense in their measured cost. Contract groups whose fulfilment is operationally straightforward carry excess allocation. The onerous contract test is performed on a cost base that does not reflect the true operational 
 burden of each contract group.
@@ -49,7 +51,16 @@ Scenario-based assessments construct hypothetical loss events and score their se
 Solvency II SCR operational risk formula, BMA equivalents, 
 LDA limitations from Frachot et al and Dutta and Perry]
 
+Consider a reinsurer writing a profitable casualty portfolio through a long-established cedant relationship. No single operational function exhibits a material failure. Acquisition processes remain broadly acceptable. Maintenance activities such as reserving and portfolio monitoring remain within normal tolerances. Claims fulfilment performance shows only modest deterioration. Governance activities continue to satisfy formal requirements.
+
+Viewed independently, each operational dimension appears manageable. However, small deterioration across multiple dimensions may compound through the institution’s own organisational structure. Slight weakening in underwriting challenge increases uncertainty in portfolio quality. Modest reserving drift reduces the reliability of performance monitoring. Incremental claims handling delays increase operational friction. Reduced governance attention delays escalation and corrective action.
+
+No individual deterioration is sufficient to trigger concern in isolation. Together they create a materially different operational state. The resulting reserve deterioration, adverse development, rating pressure and capital strain emerge as a significant loss event despite the absence of a single identifiable operational failure.
+
+Current operational risk approaches are generally calibrated to discrete loss events or isolated failure scenarios. They do not provide a systematic framework for measuring the cumulative effect of multiple small operational deteriorations acting simultaneously across interconnected functions.
+
 Three structural limitations follow from this approach.
+
 ### Retrospective
 
 The capital charge is calibrated from loss history that is sparse, inconsistently recorded and dominated by low-severity  high-frequency events that bear limited relationship to the tail losses the model is intended to capture. 
