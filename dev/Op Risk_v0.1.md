@@ -43,7 +43,7 @@ No systematic actuarial methodology currently exists for attributing operational
 
 ## 1.2 The Operational Risk Capital Disconnection
 
-Operational risk capital in general insurance is currently estimated through approaches that share a common structural limitation: they measure the consequence of operational failure rather than the condition that produces it.
+Operational risk capital in general insurance is currently estimated through approaches that share a common structural limitation: they measure realised operational loss events rather than the underlying operational state from which those events emerge.
 
 Scenario-based assessments construct hypothetical loss events and score their severity and frequency. Loss distribution approaches fit statistical distributions to historical loss data. Premium and reserve proxies apply uniform loadings derived from industry averages. In each case the capital charge is derived from observed or hypothesised loss outcomes rather than from the operational processes and relationships that generate those outcomes.
 
@@ -51,13 +51,15 @@ Scenario-based assessments construct hypothetical loss events and score their se
 Solvency II SCR operational risk formula, BMA equivalents, 
 LDA limitations from Frachot et al and Dutta and Perry]
 
-Consider a reinsurer writing a profitable casualty portfolio through a long-established cedant relationship. No single operational function exhibits a material failure. Acquisition processes remain broadly acceptable. Maintenance activities such as reserving and portfolio monitoring remain within normal tolerances. Claims fulfilment performance shows only modest deterioration. Governance activities continue to satisfy formal requirements.
+Consider a reinsurer operating a mature casualty portfolio. No major operational failure has occurred. Claims continue to be processed. Regulatory obligations continue to be met. Financial reporting remains timely. Internal audits identify no material control breaches.
 
-Viewed independently, each operational dimension appears manageable. However, small deterioration across multiple dimensions may compound through the institution’s own organisational structure. Slight weakening in underwriting challenge increases uncertainty in portfolio quality. Modest reserving drift reduces the reliability of performance monitoring. Incremental claims handling delays increase operational friction. Reduced governance attention delays escalation and corrective action.
+Over time, however, small operational deteriorations begin to accumulate. Experienced staff leave and are replaced with less experienced personnel. Legacy systems become increasingly difficult to maintain. Claims volumes grow faster than operational capacity. Management reporting becomes progressively more manual. Governance reviews continue to be completed, but with increasing effort and reduced depth of challenge.
 
-No individual deterioration is sufficient to trigger concern in isolation. Together they create a materially different operational state. The resulting reserve deterioration, adverse development, rating pressure and capital strain emerge as a significant loss event despite the absence of a single identifiable operational failure.
+Viewed independently, each deterioration appears manageable. Staff turnover remains within acceptable limits. Service levels remain broadly compliant. System outages remain infrequent. Governance processes continue to operate. No individual indicator is sufficiently severe to trigger management intervention.
 
-Current operational risk approaches are generally calibrated to discrete loss events or isolated failure scenarios. They do not provide a systematic framework for measuring the cumulative effect of multiple small operational deteriorations acting simultaneously across interconnected functions.
+Collectively, however, these deteriorations alter the operational state of the organisation. The deterioration is not caused by a single operational failure. Rather, it emerges from the cumulative interaction of changes in operational relationships, capability, structure and governance, each of which remains individually within acceptable limits. Additional staff are required to sustain existing service levels. Training, supervision and coordination requirements increase. Operational expenses rise while organisational responsiveness declines. The organisation becomes progressively less capable of identifying and responding to emerging issues before they materialise.
+
+The resulting deterioration may emerge through increased expense ratios, claims leakage, service failures, broker dissatisfaction, regulatory findings or reduced profitability. Such outcomes are often recognised only after they become visible in financial or operational results. Existing operational risk frameworks are generally calibrated to discrete events and realised losses. They provide limited visibility into the gradual accumulation of operational deterioration that precedes those outcomes.
 
 Three structural limitations follow from this approach.
 
@@ -75,7 +77,9 @@ counterparty relationships, or the direction of miscalibration. An institution t
 The capital number produced cannot be traced to the organisational processes, functions or relationships responsible for 
 generating it. It satisfies a regulatory requirement without informing a management decision.
 
-The operational risk capital charge and the operational expense base from which it is intended to protect are estimated independently, producing a structural inconsistency: the mean of the operational risk distribution is implicitly assumed to be zero, while the expected operational cost sits separately in the expense base with no formal connection to the capital model.
+The operational risk capital charge and the operational expense base are typically estimated through separate processes. Operational expenses are recognised through budgeting, planning and financial reporting frameworks. Operational risk capital is estimated through scenario assessments, loss distributions or regulatory formulae. While some entities may implicitly allow for expected operational losses within planned expenses, there is generally no formal mechanism linking the operational state reflected in the expense base to the operational state assumed by the capital framework.
+
+As a result, operational expenses and operational risk capital are often treated as separate measurements despite both arising from the same underlying operational system. The framework proposed in this paper establishes a common measurement basis by treating expected operational resource consumption as the expression of the current operational state and operational risk as deviation from that state. Operational expense attribution and operational risk capital therefore emerge from the same underlying measurement framework rather than from independent assumptions.
 
 ---
 
@@ -457,6 +461,23 @@ Expectation Failure
 
 # 8. Practical Applications
 
+Ex-Ante Reinsurance Structures
+Portfolio Construction Decisions
+    ↓
+What operational state
+am I choosing to write into?
+What operational obligations
+am I transferring?
+
+Ex-Post Reinsurance Structures
+Legacy Portfolio Management
+    ↓
+What operational state
+already exists?
+What latent uncertainty remains?
+
+Direct Insurance Operations
+
 ## 8.1 Broker Commission and Distribution Costs
 
 ### 8.1.1 Broker Commission
@@ -503,15 +524,146 @@ Expectation Failure
 
 ---
 
+
+8.5 Legacy Portfolio Management
+    ↓
+8.5.1 The Ex-Post Decision Framework
+8.5.2 Adverse Development Covers
+8.5.3 Loss Portfolio Transfers
+8.5.4 Run-off Covers and Sidecars
+
+
+
+## 8.5 Adverse Development Covers
+Here is the first draft of Section 8.5.
+
+---
+
 ## 8.5 Adverse Development Covers
 
 ### 8.5.1 Reserve Deterioration as Prior Operational Deviation
 
+An adverse development cover is a reinsurance structure under which the reinsurer agrees to absorb reserve deterioration beyond an agreed attachment point. The purchasing decision is conventionally framed as a question of reserve stability: if carried reserves are adequate and development patterns are mature, the ADC premium appears to be the cost of transferring a risk the cedant's own actuarial analysis considers remote.
+
+This framing contains a structural limitation. Reserve stability is an actuarial judgment derived from a methodology that is itself subject to model risk. The cases where ADC purchases appeared wasteful in hindsight are observable precisely because the reserves did not deteriorate. The cases where they proved prescient share an identical prior condition — the actuary also assessed reserves as stable, until systematic deterioration emerged across the book simultaneously.
+
+The relevant question is therefore not whether reserves are stable. It is whether the structural assumptions underlying the stability assessment are themselves correctly calibrated. Latent liability emergence, judicial inflation, and correlated claims handling optimism are not random deviations from an otherwise sound methodology. They are structural failures — deterioration in the So dimension of the external operational state — that affect entire cohorts simultaneously before appearing in any individual development triangle.
+
+Under the operational resource framework, the need for an ADC is not primarily a signal of known reserve inadequacy. It is a signal of prior structural operational deviation that has not yet crystallised in reported metrics. The ADC is the financial response to an operational condition.
+
+---
+
 ### 8.5.2 Operational Obligations Created by ADC Structures
 
-### 8.5.3 Monitoring and Reporting Resources
+The execution of an ADC creates ongoing operational obligations that current frameworks do not systematically measure.
 
-### 8.5.4 Financial Responses to Operational Deviation
+The cedant retains obligations to the ADC provider across the full run-off period of the covered reserves. These include periodic reserve reporting, claims development notifications, settlement approvals above defined thresholds, commutation negotiations, and collateral management where required. Each obligation consumes operational resource in the actuarial, finance, legal, and governance functions.
+
+Under the operational resource framework, these obligations are attributed as follows. Reserve reporting and development notification obligations are fulfilment obligations attributable to the portfolio covered by the ADC. Settlement approval and commutation obligations are governance obligations attributable at entity level where they require board or senior management involvement. Collateral management obligations are capacity obligations consuming treasury and finance resource continuously across the cover period.
+
+The ADC premium is therefore not the complete cost of the structure. The full operational cost includes the present value of the resource consumption required to service the ongoing obligations across the run-off period. An ADC covering a long-tail casualty portfolio with a fifteen-year run-off horizon carries substantially more operational obligation cost than one covering a short-tail property portfolio with a three-year horizon. Current practice does not distinguish between them on this basis.
+
+---
+
+### 8.5.3 Steady-State Capital and the Optimal Purchase Window
+
+The operational resource framework provides a precise timing signal for ADC purchase decisions through the steady-state capital measure.
+
+Steady-state capital is the capital requirement implied by the current portfolio structure when projected to a mature operating state. Where steady-state capital exceeds available capital, the portfolio has already committed more capital on a forward basis than is currently available to support it — a latent capital deficit not yet visible in reported metrics.
+
+Three capital perspectives are relevant to the ADC purchase decision:
+
+```
+Actual Capital
+    ↓
+Current reported position
+Incorporates reported reserve
+at carried level
+Development patterns as booked
+
+Projected Capital
+    ↓
+Balance sheet rolled forward
+under business plan assumptions
+Reserve emergence at expected
+development factors
+
+Steady-State Capital
+    ↓
+Capital requirement at maturity
+of current portfolio
+Including systematic model risk
+across the full reserve cohort
+```
+
+Where steady-state capital materially exceeds projected capital, the gap represents the capital required to absorb systematic methodology error — the correlated deterioration that affects the entire book simultaneously rather than individual claims. This is the capital that the ADC transfers to the reinsurer.
+
+The optimal ADC purchase window is therefore identified by the steady-state capital signal rather than by observed reserve deterioration:
+
+```
+Buy when:
+
+Steady-state capital
+exceeds available capital
+AND the gap is not yet visible
+in reported development patterns
+
+AND the So dimension
+shows early structural signal —
+methodology assumptions drifting,
+pricing cycle optimism
+not yet in development factors,
+judicial inflation not yet
+reflected in tail factors
+
+AND market conditions are soft —
+ADC market pricing on
+reported stability
+not on steady-state capital gap
+```
+
+This window typically precedes visible reserve deterioration by two to four years. The ADC market prices on reported conditions. The steady-state capital framework sees the latent strain before the market does.
+
+---
+
+### 8.5.4 Investment Return and the Transfer of Model Risk
+
+The conventional objection to ADC purchase in a stable reserve environment is that the investment return on the covered reserves remains with the cedant — why transfer it to the reinsurer through a premium?
+
+Under the steady-state capital framework this objection is reframed precisely. Where steady-state capital equals available capital, reserves are genuinely stable in forward terms. The investment return belongs to the cedant with confidence. The ADC premium is optionality the cedant does not need.
+
+Where steady-state capital exceeds available capital, the investment return on covered reserves is not the cedant's to retain with confidence. It belongs economically to the latent liability not yet recognised in the carried reserve. The ADC premium converts an uncertain investment return into a certain cost. The cedant is not giving away investment return. The cedant is crystallising a liability uncertainty into a known premium.
+
+```
+Steady-state capital = available capital
+    ↓
+Reserves genuinely stable
+Investment return retained with confidence
+ADC is expensive optionality
+
+Steady-state capital > available capital
+    ↓
+Latent strain exists
+Investment return belongs to
+unrecognised latent liability
+ADC converts uncertainty to known cost
+Premium is justified
+by the steady-state gap
+```
+
+The So dimension loading in the operational state framework provides the mechanism. A structural dimension under stress indicates that the reserve methodology is drifting from correct calibration. The loading quantifies the capital implied by that drift. The ADC premium, correctly priced, should approximate the present value of the expected steady-state capital gap above the attachment point.
+
+---
+
+### 8.5.5 Attribution of ADC Cost under IFRS 17
+
+Under IFRS 17, the ADC is a reinsurance contract held and is measured separately from the underlying insurance contracts issued. The reinsurance contract asset is the present value of expected recoveries net of the premium ceded.
+
+Under the operational resource framework, the ADC premium is attributed as a fulfilment cost of the portfolio covered by the structure. It is not a general overhead or an entity-level governance cost. It is the cost of transferring the model risk associated with a specific reserve cohort, and it is attributable to the contract groups within that cohort in proportion to their contribution to the steady-state capital gap.
+
+This attribution produces a more complete fulfilment cash flow for the covered contract groups than current practice achieves. The onerous contract test applied to those groups includes not only the carried reserve and expected claims development but also the cost of the structural model risk that the ADC is purchased to transfer. Contract groups whose reserves carry high So dimension loading — long-tail casualty, latent liability, emerging risk classes — attract a higher attributed ADC cost than short-tail classes with low structural loading, correctly reflecting their contribution to the latent capital strain.
+
+The reinsurance outwards RYSI state conditions the expected recovery efficiency of the ADC. A reinsurer whose own Io and So dimensions are deteriorating — governance under stress, contract wording disputes increasing — carries a higher recovery friction loading. The net reinsurance asset under IFRS 17 is reduced accordingly, producing a more conservative fulfilment cash flow than a model that treats recovery as certain.
 
 ---
 
