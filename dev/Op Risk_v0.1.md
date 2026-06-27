@@ -188,9 +188,13 @@ Section 10 discusses extensions. Section 11 concludes.
 
 Core principle:
 An insurance contract is not only a financial obligation. It is an operational obligation.
+
 Operational obligations require resource consumption across four categories: acquisition, maintenance, fulfilment, governance.
+
 Expected resource consumption is not operational risk. It is the cost of running the business.
+
 Operational risk arises when realised resource consumption deviates from the level required to sustain the intended delivery of insurance services.
+
 Expected operational risk equals expected operational cost. This is not an assumption. It is a consequence of the first principle.
 
 ## 2.0 Emergence of Insurance Contract
@@ -266,18 +270,29 @@ This is the nature of a complex operational system. Failures do not arrive in la
 
 What follows from this is a measurement requirement, not a categorisation requirement. The question is not which type of failure occurred. The question is what state the operational system is in — across all its elements and all their interdependencies — and how far that state deviates from the condition required to discharge the obligation at the level the contract demands. That deviation, and the resource required to correct it, is the origin of operational risk. Expected resource consumption — the subject of the next section — must therefore be defined as a property of the system in its full complexity, not as a sum of independently estimated components.
 
-## 2.4 Expected resource consumption
+## 2.4 Expected Resource Consumption and Expense Discipline
+
+You are right — let us stay on track. Here is the final revised 2.4 incorporating the closing observation on the full spectrum from short-tail general insurance through to guaranteed annuities, and closing with the cost of running the business paragraph already approved:
+
+2.4 Expected Resource Consumption and Expense Discipline
+
+Underwriting discipline is the practice of not accepting the class loss ratio as the correct loss assumption for every contract within that class. The underwriter looks at the specific risk, the specific counterparty, the specific terms — and makes a judgement that the standard assumption does not adequately reflect what this contract will cost in claims. The loss ratio varies by contract because the underwriter's assessment of the specific risk varies. That variation is not noise. It is the signal that underwriting discipline is working.
+
+Expense discipline is the exact parallel. The expense ratio should not be fixed at class level and applied uniformly to every contract within that class. Two contracts in the same class, carrying the same exposure and the same contract structure, may have materially different operational resource demands — and therefore materially different true expense ratios. The contract that required three rounds of information requests, a specialist referral, two mid-term endorsements and a disputed claim consumed more operational resource than the contract that was a clean renewal through an established broker relationship. Both carry the same class expense ratio. Neither is correctly measured.
+
+Recognising that difference — and acting on it in pricing, in portfolio management and in the assessment of contract profitability — is expense discipline. It requires no model beyond what underwriting discipline already demands. It requires the same judgement-based awareness applied to the operational cost dimension of the contract rather than to its loss expectation. An experienced underwriter already knows implicitly that a difficult cedant, a complex placement or an operationally intensive relationship costs more to service. Expense discipline makes that implicit knowledge explicit and gives it a place in the pricing conversation alongside the loss ratio assumption.
+
+The absence of expense discipline is not evenly distributed across markets. In personal lines, where products are standardised and individual underwriting touchpoints are minimal, the within-class variation in operational resource consumption is real but relatively contained. The uniform expense ratio is a reasonable approximation with corrections needed primarily at the channel and segment level. In commercial direct lines, bespoke coverage terms, variable servicing intensity and individual claims complexity produce material within-class variation that the uniform ratio cannot capture. The operational cost of writing a large complex commercial property policy and a small straightforward SME policy in the same class are not the same — and pricing both at the same expense ratio misrepresents the economics of each. In reinsurance the absence of expense discipline is most consequential. A proportional treaty with a well-governed cedant, clean bordereaux and a long renewal history consumes a fraction of the operational resource required by a complex facultative placement, a poorly governed cedant relationship or a structure requiring active claims coordination across multiple parties and jurisdictions. The gap between the uniform class expense ratio and the true operational cost of each contract is not a calibration imprecision. It is a structural misrepresentation of the economics of the book — with direct consequences for pricing adequacy, cedant relationship profitability and capital allocation.
+
+The principle extends beyond general insurance. Any contract that creates an obligation requiring sustained operational performance across time generates expected resource consumption that is measurable at the obligation level. In long-tail general insurance, the duration of the liability begins to introduce an investment dimension — the float generated by the premium held between receipt and claims payment earns a return that is implicitly part of the contract economics, and the operational resource required to manage reserving, actuarial review and claims development across years or decades is material. In guaranteed annuity business, the investment dimension is not supplementary but central — the ALM function that matches asset cash flows to annuity payments across thirty or forty years is the primary operational obligation, and the investment return is not separable from the cost of keeping the promise but is the mechanism through which the promise is kept. Across this full spectrum — from short-tail property through long-tail casualty to guaranteed annuity — the principle holds: expected resource consumption is derived from what the specific obligation requires, at the specific stage of its lifecycle, through the specific operational structure through which it is held and discharged. The configuration of that resource varies with the duration, certainty and complexity of the liability. The principle of derivation does not.
+
+In practice, expected resource consumption at the contract level aggregates upward — to contract group as the attribution unit for IFRS 17 purposes, and from there to the management accounting reporting layer at which performance is assessed, pricing adequacy is reviewed and capital is allocated. Full granularity at the individual contract level is implemented where the data infrastructure supports it. Structured approximation using observable resource intensity proxies — renewal history, distribution channel, counterparty complexity, mid-term activity, claims history, reinsurance involvement — is applied where it does not. What is non-negotiable at every point on that spectrum is that the expense ratio is derived from what the specific obligation demands, not from what the class average implies.
+
+Expected resource consumption, so defined, is the cost of running the business. It is not a risk charge. It is not a capital requirement. It is not a stress or a scenario. It is the ordinary, expected, unavoidable cost of honouring every operational obligation the institution has assumed — across every contract, every counterparty relationship, every governance requirement and every fulfilment activity that keeping the promise demands. When that cost is correctly derived from the obligation downward and attributed to the contracts that created it, it becomes the baseline from which all subsequent measurement in the framework proceeds. Operational expense attribution is derived from it. Operational risk arises when realised resource consumption deviates from it. And operational risk capital is determined by the distribution of that deviation. The cost of running the business and the capital required to protect against operational failure are therefore not two separate measurements. They are two expressions of the same underlying quantity — one describing what fulfilment is expected to cost, the other describing what happens when it costs more or less than expected. That relationship, and its consequences for both expense attribution and capital, is the subject of the section that follows.
 
 ## 2.5 Deviation from expected fulfilment is operational risk
 
-
-## 2.3 Expected Resource Consumption
-
-## 2.4 Operational Risk as Deviation from Expected Fulfilment
-
-Operational risk arises when realised resource consumption deviates from the level required to sustain the intended delivery of insurance services.
-
-## 2.5 Operational Risk
+## 2.6 Operational Risk
 
 ---
 
