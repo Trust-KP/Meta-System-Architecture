@@ -186,17 +186,6 @@ Section 10 discusses extensions. Section 11 concludes.
 
 # 2. First Principles
 
-Core principle:
-An insurance contract is not only a financial obligation. It is an operational obligation.
-
-Operational obligations require resource consumption across four categories: acquisition, maintenance, fulfilment, governance.
-
-Expected resource consumption is not operational risk. It is the cost of running the business.
-
-Operational risk arises when realised resource consumption deviates from the level required to sustain the intended delivery of insurance services.
-
-Expected operational risk equals expected operational cost. This is not an assumption. It is a consequence of the first principle.
-
 ## 2.0 Emergence of Insurance Contract
 
 Insurance did not begin as an institution. It began as a conversation between people who understood the same risk.
