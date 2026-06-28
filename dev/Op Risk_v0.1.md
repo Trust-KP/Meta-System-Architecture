@@ -96,15 +96,9 @@ gap — e.g. how fac placement operational costs are currently
 treated in a Lloyd's syndicate internal model, or how coverholder 
 operational risk is captured in a binding authority arrangement]
 
-The consequence is that as business structures become more complex — 
-greater use of delegated authority, increased reliance on third-party capital, 
-more sophisticated reinsurance structures — the operational risk framework 
-becomes progressively less complete rather than adapting to the changing 
-operational reality of the business.
+The consequence is that as business structures become more complex — greater use of delegated authority, increased reliance on third-party capital, more sophisticated reinsurance structures — the operational risk framework becomes progressively less complete rather than adapting to the changing operational reality of the business.
 
-A measurement framework that is genuinely useful to a general insurance 
-actuary must operate consistently across the full spectrum of operational 
-structures without requiring structural modification to its underlying logic.
+A measurement framework that is genuinely useful to a general insurance actuary must operate consistently across the full spectrum of operational structures without requiring structural modification to its underlying logic.
 
 ---
 
