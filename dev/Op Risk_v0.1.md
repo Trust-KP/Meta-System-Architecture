@@ -158,17 +158,21 @@ The framework developed in this paper does not begin with operational risk. It b
 
 ## 1.6 Structure of the Paper
 
-Section 2 establishes the first principles from which the framework is derived. 
-Section 3 presents the operational obligation framework across its four 
-categories. Section 4 defines the resource framework distinguishing internal, 
-external, shared governance and capital support resources. Section 5 reviews 
-current practice and identifies the specific gaps the framework addresses. 
-Section 6 provides the formal statement of the framework including the 
-operational resource measure, deviation distribution and capital emergence 
-structure. Section 7 establishes the governance architecture. Section 8 
-illustrates the framework across the principal operational structures of general 
-insurance practice. Section 9 provides the three-phase implementation roadmap. 
-Section 10 discusses extensions. Section 11 concludes.
+Section 2 establishes the first principles from which the framework is derived, beginning with the emergence of the operational layer and developing the concepts of operational obligation, operational resource consumption, expected resource consumption and operational risk.
+
+Section 3 establishes the Operational Obligation Framework and classifies the obligations created by every insurance contract.
+
+Section 4 introduces the Operational Resource Framework, identifying the internal resource classes consumed in fulfilling those obligations.
+
+Section 5 develops the behaviour of operational resource consumption and explains how operational relationships evolve through time.
+
+Section 6 establishes the Operational Measurement Framework, showing how operational obligations give rise to operational resource consumption, expense attribution and measurement under IFRS 17.
+
+Section 7 derives operational risk from the operational measurement framework.
+
+Sections 8 to 10 demonstrate implementation, applications and future extensions.
+
+Section 11 concludes.
 
 # 2. First Principles
 
@@ -274,21 +278,31 @@ This is why deviation cannot be measured through loss events alone. A regulatory
 
 ## 2.6 Operational Risk
 
-Operational risk is the uncertain operational cost — the distribution of realised resource consumption across the full life of the institution's obligations. It is not an event category. It is not a residual after market and credit risk have been measured. It is a primary property of the operational system — present whenever realised resource consumption departs from what the obligation demands, in either direction, for any reason.
+Expected operational resource consumption represents the operational expense anticipated under normal operating conditions. It is the expected quantity of operational resources required to fulfil the operational obligations created by an insurance contract or portfolio of contracts.
 
-Expected resource consumption is not operational risk. It is the cost of running the business — the ordinary, unavoidable expenditure required to discharge the institution's obligations under normal operating conditions. Operational risk is the deviation from that cost. A system operating exactly at its expected consumption level is not bearing operational risk in the sense the framework defines — it is bearing operational cost. Operational risk begins the moment the system departs from that level.
+In practice, realised operational resource consumption will differ from expectation. Claims may become more complex, regulatory requirements may change, key personnel may become unavailable, systems may fail, disputes may arise, or operational processes may perform more efficiently than anticipated. Consequently, realised operational resource consumption is inherently uncertain.
 
-The mean of that distribution is expected resource consumption — the cost of running the business, recovered through the expense loading in premium. The variance of that distribution reflects the stability of the operational system. The tail above the mean is the portion that cannot be recovered through pricing — and it is this tail that gives rise to operational risk capital. 
+Operational risk is the probability distribution of realised operational resource consumption around the expected operational resource consumption.
 
-Its distribution — the range and likelihood of departures from the expected state in both directions — is the operational risk profile of the institution. The variance of that distribution reflects the stability of the operational system. The tail reflects exposure to severe disruption — the events that consume resource at multiples of the expected level, or that reveal sustained state deterioration that has been accumulating invisibly before surfacing as a financial outcome.
+The expected operational resource consumption represents the mean of this distribution.
 
-Capital is required because the tail of that distribution cannot be recovered through pricing alone. The expense loading in premium recovers expected operational cost. It does not protect against severe deviation. The capital held against operational risk is therefore not a charge against the cost of running the business. It is a charge against the risk that the business will not run as expected — and that the consequences of that failure will exceed what the expense base can absorb.
+The variability around the mean reflects the uncertainty associated with operational execution.
 
-Because expected cost and operational risk capital are both derived from the same obligation-referenced baseline — one measuring the centre of the deviation distribution, the other measuring its tail — they are not independent quantities. They are two expressions of the same underlying measurement. Because the mean of the operational risk distribution is expected resource consumption, expected operational risk equals expected operational cost. This is not an assumption. It is true by construction — the mean identity follows directly from defining operational risk as the full distribution of realised resource consumption rather than as a separate capital charge estimated independently of the expense base."
+The upper tail of the distribution represents extreme operational outcomes requiring materially greater operational resources than expected.
 
-This is not an assumption embedded in the framework. It is a structural consequence of deriving both quantities from the same first principle: that an insurance contract is an operational obligation, that discharging it requires resource, and that the deviation of realised from expected resource consumption is the origin of operational risk.
+Accordingly,
 
-This equality — expected operational risk equals expected operational cost — is the consistency identity the framework establishes. It is absent from current practice, where operational expenses and operational risk capital are estimated through separate processes with no formal connection between them. The framework proposed in this paper closes that gap — not by assertion, but by deriving both quantities from the same obligation-referenced baseline that the first principles of this section have established.
+|--|--|
+|**Expected Operational Expense** |Expected Operational Resource Consumption|
+|**Operational Risk** |Distribution of Realised Operational Resource Consumption|
+|**Operational Risk Capital** |Capital required to absorb adverse outcomes in the tail of that distribution.|
+|--|--|
+
+An individual operational event therefore does not constitute operational risk in isolation. Rather, it is a realisation drawn from the underlying distribution of operational resource consumption. Operational risk is measured by the uncertainty surrounding those possible realisations rather than by any single observed deviation.
+
+This interpretation provides a common measurement object linking operational expense attribution and operational risk. Operational expense represents the expected operational resources consumed in fulfilling operational obligations, whilst operational risk represents the uncertainty surrounding that same operational resource consumption.
+
+The four forms of operational resource introduced in this section describe the operational demands created by an insurance contract as they are observed externally through relationships with policyholders, brokers, regulators and counterparties. The chapters that follow describe the corresponding internal operational obligations and operational resources consumed by the insurer in satisfying those demands. The two descriptions therefore represent complementary external and internal views of the same operational system rather than separate classifications.
 
 ---
 
@@ -422,16 +436,16 @@ Operational obligations are fulfilled through the consumption of operational res
 
 The framework identifies four fundamental classes of operational resource:
 
-* Interpretative Resources — resources that generate understanding, judgement and operational decisions.
+* Interpretation Resources — resources that generate understanding, judgement and operational decisions.
 * Structural Resources — resources that provide the persistent structures supporting operational execution.
 * Regime Resources — resources that preserve institutional legitimacy and governance.
-* Operational Resources — resources that directly execute operational activities.
+* Realisation Resources — resources that directly execute operational activities.
 
 Every operational activity consumes one or more of these resource classes. The attribution of operational expense therefore follows resource consumption rather than organisational ownership.
 
-## 4.1 Interpretative Resources
+## 4.1 Interpretation Resources
 
-Interpretative resources are consumed whenever uncertainty must be interpreted before an operational decision can be made.
+Interpretation resources are consumed whenever uncertainty must be interpreted before an operational decision can be made.
 
 Examples include:
 
@@ -447,11 +461,11 @@ Examples include:
 * Internal experience studies
 * Proprietary underwriting methodologies
 
-Interpretative resources transform information into operational decisions.
+Interpretation resources transform information into operational decisions.
 
 They therefore primarily support acquisition, fulfilment and governance obligations.
 
-Accumulated interpretative resources reduce future operational effort. Historical underwriting knowledge, prior claims experience and established broker relationships reduce the operational resources required for subsequent renewals. This provides the operational basis for the seasoning principle developed in Chapter 3.
+Accumulated Interpretation resources reduce future operational effort. Historical underwriting knowledge, prior claims experience and established broker relationships reduce the operational resources required for subsequent renewals. This provides the operational basis for the seasoning principle developed in Chapter 3.
 
 ## 4.2 Structural Resources
 
@@ -499,9 +513,9 @@ Instead, they preserve the institutional conditions under which contractual prom
 
 Regime resources therefore primarily support governance obligations while indirectly enabling all other operational obligations.
 
-## 4.4 Operational Resources
+## 4.4 Realisation Resources
 
-Operational resources execute the operational activities required throughout the insurance contract lifecycle.
+Realisation resources execute the operational activities required throughout the insurance contract lifecycle.
 
 Examples include:
 
@@ -518,9 +532,9 @@ Examples include:
 
 The framework makes no distinction between internal employees and outsourced providers.
 
-Operational execution remains operational execution irrespective of contractual ownership.
+Realisation execution remains realisation execution irrespective of contractual ownership.
 
-Operational resources therefore represent the direct execution layer of the insurance operating model.
+Realisation resources therefore represent the direct execution layer of the insurance operating model.
 
 ## 4.5 Resource Attribution
 
