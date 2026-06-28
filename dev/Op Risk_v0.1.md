@@ -416,25 +416,25 @@ The reduction reflects neither reduced financial obligation nor reduced insuranc
 
 This illustrates a broader principle of the framework: operational history itself possesses measurable economic value because it reduces future operational resource consumption.
 
+The Operational Obligation Framework defines the operational obligations created by every insurance contract. The following chapter identifies the operational resources consumed in fulfilling those obligations before considering their behaviour and measurement.
+
 ---
 
 [FIRST DRAFT] 
 
 # 4. Operational Resource Framework
 
-Chapter 3 established that every insurance contract creates operational obligations. Operational obligations cannot be fulfilled without consuming operational resources.
+Chapter 3 established that every insurance contract creates operational obligations. This chapter identifies the operational resources consumed in fulfilling those obligations.
 
 An operational resource is any resource consumed in establishing, maintaining, governing or fulfilling an insurance contract.
 
-The framework classifies operational resources according to the operational function they provide rather than organisational ownership, accounting presentation or legal structure. Whether a resource is internally owned, externally purchased or shared across multiple business functions does not alter its operational role. An outsourced claims handler, an employed claims handler and a delegated claims administrator all perform the same operational function and therefore represent the same class of operational resource.
-
-The purpose of the resource framework is therefore not to describe organisational departments, but to identify the fundamental resources consumed in fulfilling operational obligations.
+The purpose of this chapter is not to describe how operational resources behave or how they are measured. Those topics are developed in Chapters 5 and 6. This chapter defines only the fundamental classes of operational resources required to fulfil operational obligations.
 
 Core Principle
 
 Operational obligations are fulfilled through the consumption of operational resources.
 
-The framework identifies four fundamental classes of operational resource:
+The framework identifies four fundamental resource capabilities consumed in fulfilling operational obligations:
 
 * Interpretation Resources — resources that generate understanding, judgement and operational decisions.
 * Structural Resources — resources that provide the persistent structures supporting operational execution.
@@ -465,7 +465,9 @@ Interpretation resources transform information into operational decisions.
 
 They therefore primarily support acquisition, fulfilment and governance obligations.
 
-Accumulated Interpretation resources reduce future operational effort. Historical underwriting knowledge, prior claims experience and established broker relationships reduce the operational resources required for subsequent renewals. This provides the operational basis for the seasoning principle developed in Chapter 3.
+Interpretation resources transform information into operational decisions.
+
+They primarily support acquisition, fulfilment and governance obligations by enabling uncertainty to be interpreted before operational action is taken.
 
 ## 4.2 Structural Resources
 
@@ -560,13 +562,9 @@ Accordingly, the framework measures operational resource consumption independent
 
 # 5. Operational Resource Consumption
 
-The previous chapter identified the operational resources required to fulfil insurance obligations. This chapter considers how those resources are consumed.
+Chapter 4 identified the operational resources required to fulfil operational obligations. This chapter considers how those resources are consumed through operational activity.
 
-Operational expense does not arise because resources exist. It arises because operational resources are consumed in establishing, maintaining, governing and fulfilling insurance contracts.
-
-Accordingly, the measurement object of the framework is not the operational resource itself, but its consumption through operational activity.
-
-Operational resource consumption therefore forms the common measurement basis linking operational expense attribution and operational risk.
+Operational expense arises not because operational resources exist, but because operational resources are consumed in fulfilling operational obligations. The behaviour of that consumption determines both expected operational expense and the uncertainty surrounding realised operational outcomes.
 
 Core Principle
 
@@ -622,61 +620,53 @@ Consumption intensity is influenced by factors including:
 
 Operational expense should therefore reflect operational resource consumption rather than financial exposure alone.
 
-## 5.3 Continuity Principle
+Interpretation Resources Accumulate Through Operational History
 
-Operational resource consumption extends beyond individual financial contract boundaries.
+Interpretation resources differ from the remaining resource classes because operational activity generates additional interpretative capability.
 
-The discharge of a financial obligation does not necessarily terminate the operational relationship.
+Historical underwriting decisions, accumulated claims experience, broker relationships and internal operational knowledge reduce the interpretation effort required for future operational decisions.
 
-Customer relationships, broker engagement, delegated authority oversight, regulatory supervision and institutional knowledge frequently continue across multiple policy periods.
+Consequently, interpretation resource consumption exhibits strong path dependency.
 
-Operational resource consumption should therefore be understood as occurring across continuing operational relationships rather than isolated insurance contracts.
+This provides the operational mechanism underlying the seasoning principle introduced in Chapter 3.
 
-This distinction explains why operational cost behaviour differs fundamentally from claim payment patterns.
+## 5.3 Consumption Across Continuing Relationships
 
-## 5.4 Information Accumulation Principle
+As established by the Continuity Principle in Chapter 3, operational relationships frequently extend beyond individual financial contract boundaries.
 
-Operational activity generates information that reduces future operational resource consumption.
+The consequence is that operational resource consumption follows the continuing operational relationship rather than the accounting contract. Customer relationships, broker engagement, delegated authority oversight and regulatory supervision therefore generate operational resource consumption across multiple contract periods.
 
-Each underwriting decision, claims settlement, broker interaction and governance activity contributes operational knowledge that may be reused in future periods.
+Operational resource consumption should consequently be understood as occurring across continuing operational relationships rather than isolated annual insurance contracts.
 
-Consequently, operational resource consumption is path dependent.
+## 5.4 Accumulation of Operational Information
 
-Future operational effort depends not only upon current contractual obligations but also upon the accumulated operational information generated by previous activities.
+Chapter 3 established that operational relationships accumulate information through time.
 
-Operational information therefore represents a resource created through prior operational consumption.
+The operational consequence is that future operational resource consumption becomes path dependent.
 
-## 5.5 Seasoning Principle
+Historical underwriting decisions, claims experience, broker interactions and governance activities generate operational information that reduces the interpretation effort required for subsequent operational decisions.
 
-Operational resource consumption generally declines as operational relationships mature.
+Operational information therefore represents a resource created through prior operational resource consumption.
 
-New business requires substantial acquisition effort.
+## 5.5 Consumption Across Relationship Maturity
 
-Information must be collected.
+The Seasoning Principle established in Chapter 3 implies that operational resource consumption changes as operational relationships mature.
 
-Relationships must be established.
+New business requires substantial acquisition effort because operational information must first be created.
 
-Operational confidence must be developed.
+As relationship history accumulates, interpretation effort declines and acquisition resources progressively reduce.
 
-As operational history accumulates, much of this effort is no longer repeated.
+The reduction in operational effort is therefore a consequence of accumulated operational information rather than commercial pricing decisions.
 
-Renewal underwriting typically requires less operational resource because previous operational activity has already established significant interpretative, structural and institutional knowledge.
+## 5.6 Behavioural Effects on Resource Consumption
 
-The reduction in operational effort is a consequence of accumulated operational information rather than commercial pricing strategy.
+The Adverse Selection Principle described in Chapter 3 demonstrates that operational resource consumption depends upon behavioural continuity as well as insured risk.
 
-Seasoning therefore represents a structural property of operational resource consumption.
+A policyholder who changes insurer frequently repeatedly generates acquisition obligations.
 
-## 5.6 Adverse Selection Principle
+A long-standing policyholder with an established operational history requires substantially lower acquisition effort.
 
-Operational resource consumption depends upon behavioural continuity as well as insured risk.
-
-A policyholder who changes insurer at every renewal requires repeated acquisition activity.
-
-An otherwise identical policyholder maintaining a long-term relationship requires substantially less operational acquisition effort.
-
-Although expected insurance losses may be identical, expected operational resource consumption differs.
-
-Operational expense attribution should therefore distinguish between insurance risk and operational effort.
+Operational expense should therefore reflect operational resource consumption rather than insurance risk alone.
 
 ## 5.7 Consumption Across Resource Classes
 
@@ -707,11 +697,9 @@ The following chapter develops that measurement framework.
 
 # 6. Operational Measurement Framework
 
-The preceding chapters established that insurance contracts create operational obligations, that those obligations are fulfilled through operational resources, and that operational expense represents the consumption of those resources.
+Chapter 5 described how operational resources are consumed in fulfilling operational obligations. This chapter establishes how that consumption may be measured and attributed consistently across insurance contract groups.
 
-This chapter develops the corresponding measurement framework.
-
-The framework does not replace existing operational expense allocation practices. Rather, it provides a common measurement basis that explains why many existing attribution methods are appropriate, identifies where attribution remains incomplete, and extends the same operational principle consistently across the full operational lifecycle of an insurance contract.
+The objective is not to introduce a new accounting methodology, but to provide a systematic operational measurement framework that explains existing attribution practices and extends them consistently across the full operational lifecycle.
 
 ## Core Principle
 
