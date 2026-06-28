@@ -402,25 +402,139 @@ This illustrates a broader principle of the framework: operational history itsel
 
 ---
 
-# 4. Resource Framework
+# 4. Operational Resource Framework
 
-Core principle:
-Resources are consumed in fulfilling operational obligations. Resources are either internal or external. External resources are not less operational because they are purchased — broker commission, fac placement costs, TPA fees are all externalised operational resource consumption.
-Internal resources     →    People, systems, capital
-External resources     →    Brokers, TPAs, advisers
-Shared governance      →    Actuarial, finance, compliance
-Capital support        →    Cost of risk-bearing capacity
-Attribution follows consumption. Resources consumed in fulfilling a specific contract group are attributed to that contract group. Resources consumed at portfolio or entity level are attributed through the Operational Support Layer.
+Chapter 3 established that every insurance contract creates operational obligations. Operational obligations cannot be fulfilled without consuming operational resources.
 
-## 4.1 Internal Resources
+An operational resource is any resource consumed in establishing, maintaining, governing or fulfilling an insurance contract.
 
-## 4.2 External Resources
+The framework classifies operational resources according to the operational function they provide rather than organisational ownership, accounting presentation or legal structure. Whether a resource is internally owned, externally purchased or shared across multiple business functions does not alter its operational role. An outsourced claims handler, an employed claims handler and a delegated claims administrator all perform the same operational function and therefore represent the same class of operational resource.
 
-## 4.3 Shared Governance Resources
+The purpose of the resource framework is therefore not to describe organisational departments, but to identify the fundamental resources consumed in fulfilling operational obligations.
 
-## 4.4 Capital Support Resources
+Core Principle
+
+Operational obligations are fulfilled through the consumption of operational resources.
+
+The framework identifies four fundamental classes of operational resource:
+
+* Interpretative Resources — resources that generate understanding, judgement and operational decisions.
+* Structural Resources — resources that provide the persistent structures supporting operational execution.
+* Regime Resources — resources that preserve institutional legitimacy and governance.
+* Operational Resources — resources that directly execute operational activities.
+
+Every operational activity consumes one or more of these resource classes. The attribution of operational expense therefore follows resource consumption rather than organisational ownership.
+
+## 4.1 Interpretative Resources
+
+Interpretative resources are consumed whenever uncertainty must be interpreted before an operational decision can be made.
+
+Examples include:
+
+* Underwriting judgement
+* Pricing methodologies
+* Actuarial models
+* Claims expertise
+* Engineering assessments
+* Medical opinions
+* Legal interpretation
+* Data analytics
+* Artificial intelligence models
+* Internal experience studies
+* Proprietary underwriting methodologies
+
+Interpretative resources transform information into operational decisions.
+
+They therefore primarily support acquisition, fulfilment and governance obligations.
+
+Accumulated interpretative resources reduce future operational effort. Historical underwriting knowledge, prior claims experience and established broker relationships reduce the operational resources required for subsequent renewals. This provides the operational basis for the seasoning principle developed in Chapter 3.
+
+## 4.2 Structural Resources
+
+Structural resources provide the persistent capability through which operational activities are performed.
+
+Examples include:
+
+* Policy administration platforms
+* Claims systems
+* Pricing engines
+* Data infrastructure
+* Cloud computing
+* Cybersecurity platforms
+* Communication infrastructure
+* Reinsurance programmes
+* Liquidity facilities
+* Operational databases
+
+Structural resources are distinguished by persistence rather than immediate execution.
+
+They enable operational activity without themselves performing operational decisions.
+
+Their consumption supports every operational obligation simultaneously.
+
+## 4.3 Regime Resources
+
+Regime resources preserve the insurer’s institutional legitimacy and continuing authority to transact insurance business.
+
+Examples include:
+
+* Regulatory authorisation
+* Board governance
+* Internal audit
+* Compliance functions
+* Enterprise risk management
+* Capital governance
+* Rating agency relationships
+* Delegated authority oversight
+* Operational controls
+* Governance frameworks
+
+These resources do not generally fulfil contractual promises directly.
+
+Instead, they preserve the institutional conditions under which contractual promises remain credible.
+
+Regime resources therefore primarily support governance obligations while indirectly enabling all other operational obligations.
+
+## 4.4 Operational Resources
+
+Operational resources execute the operational activities required throughout the insurance contract lifecycle.
+
+Examples include:
+
+* Underwriters
+* Claims handlers
+* Customer service teams
+* Policy administration staff
+* Brokers
+* Third-party administrators
+* Loss adjusters
+* Surveyors
+* Engineers
+* External operational service providers
+
+The framework makes no distinction between internal employees and outsourced providers.
+
+Operational execution remains operational execution irrespective of contractual ownership.
+
+Operational resources therefore represent the direct execution layer of the insurance operating model.
 
 ## 4.5 Resource Attribution
+
+Operational expense is attributed according to the operational resources consumed in fulfilling operational obligations.
+
+Resources consumed directly for identifiable insurance contract groups are attributed directly to those groups.
+
+Resources consumed in supporting multiple operational obligations or multiple contract groups are attributed through the Operational Support Layer using systematic and rational allocation methods consistent with IFRS 17.
+
+The framework therefore allocates operational expense by asking a single question:
+
+Which operational resources were consumed in fulfilling which operational obligations?
+
+This differs fundamentally from traditional cost-centre allocation.
+
+Departments, reporting lines and outsourcing arrangements may change over time. The operational resources required to establish, maintain, govern and fulfil insurance contracts do not.
+
+Accordingly, the framework measures operational resource consumption independently of organisational structure, providing a stable basis for operational expense attribution across different insurers and operating models.
 
 ---
 
