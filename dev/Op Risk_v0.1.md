@@ -8,7 +8,9 @@ Operational expense attribution and operational risk capital are currently treat
 
 This paper proposes a unified operational resource framework grounded in a single first principle: an insurance contract is not only a financial obligation but also an operational obligation, requiring the consumption of resources across acquisition, maintenance, fulfilment and governance activities. These obligations are delivered through two distinct layers: an Insurance Service Layer comprising activities directly attributable to individual contract groups, and an Operational Support Layer comprising institution-level activities required to sustain service delivery across the portfolio.
 
-Within this framework, expected resource consumption gives rise to operational expense attribution. Operational risk arises when realised resource consumption deviates from the level required to sustain the intended delivery of insurance services. The tail of that deviation distribution gives rise to operational risk capital. Operational expense attribution and operational risk capital therefore emerge from the same underlying resource measurement framework rather than from separate frameworks. As a consequence, expected operational risk equals expected operational cost, providing a consistency relationship that is absent from current practice.
+Within this framework, expected resource consumption gives rise to operational expense attribution. Operational risk arises when realised resource consumption deviates from the level required to sustain the intended delivery of insurance services. The tail of that deviation distribution gives rise to operational risk capital. Operational expense attribution and operational risk capital therefore emerge from the same underlying resource measurement framework rather than from separate frameworks. 
+
+As a consequence, the framework derives expected operational cost and operational risk capital from the same underlying operational resource framework, producing a consistency relationship between expense attribution and operational risk measurement.
 
 The framework operates across both insurance service and reinsurance activities, providing a consistent basis for attributing operational costs associated with policy fulfilment, reinsurance placement and recovery. It also makes visible and attributable sources of operational uncertainty that are currently embedded implicitly within technical assumptions, including parameter risk loadings in stochastic reserving and process risk adjustments in actuarial assumptions.
 
@@ -106,25 +108,13 @@ A measurement framework that is genuinely useful to a general insurance actuary 
 
 This paper has four objectives.
 
-First, to establish a first-principle basis for the attribution of operational 
-expenses to insurance contract groups that satisfies the systematic and rational 
-requirement of IFRS 17 and reflects the operational intensity of specific 
-contracts, relationships and fulfilment activities.
+First, to establish a first-principle measurement basis for attributing operational expenses to insurance contract groups. The framework is designed to satisfy the systematic and rational attribution requirement of IFRS 17 while reflecting the operational intensity of individual contracts, relationships and fulfilment activities.
 
-Second, to derive an operational risk capital measurement from the same 
-underlying resource consumption framework, ensuring consistency between the 
-operational expense base and the capital charge intended to protect against 
-unexpected operational losses.
+Second, to derive an operational risk capital methodology from the same operational resource framework, establishing a consistent measurement basis for both operational expense attribution and operational risk capital.
 
-Third, to demonstrate that the framework operates without structural 
-modification across the principal operational structures of general insurance 
-practice, including delegated underwriting, reinsurance structures, and 
-third-party capital arrangements.
+Third, to demonstrate that the framework operates across the principal operational structures of general insurance practice, including delegated underwriting, reinsurance structures, and third-party capital arrangements.
 
-Fourth, to provide a practical implementation roadmap that enables a general 
-insurance actuary to apply the framework progressively, beginning with existing 
-cost-centre data and extending to state-based stochastic operational risk 
-modelling.
+Fourth, to provide a practical implementation roadmap that enables progressive adoption by general insurance actuaries, beginning with existing cost-centre data and extending to stochastic state-based calibration of the framework.
 
 ---
 
@@ -161,6 +151,8 @@ provides a foundation for future extensions into strategic capital planning,
 portfolio emergence analysis and long-term capital management. These extensions 
 are discussed briefly in Section 10 but are not required for implementation of 
 the framework presented here.
+
+The framework developed in this paper does not begin with operational risk. It begins by identifying the underlying object that operational risk acts upon. Section 2 therefore establishes the first-principle basis of that object before deriving the subsequent measurement framework.
 
 ---
 
@@ -302,151 +294,111 @@ This equality — expected operational risk equals expected operational cost —
 
 # 3. Operational Obligation Framework
 
-## Core principle:
-Every insurance contract creates obligations across all four categories simultaneously. No contract creates obligations in only one category.
-Acquisition      →    Creating the relationship
-Maintenance      →    Sustaining the capability
-Fulfilment       →    Executing the contract
-Governance       →    Preserving legitimacy
-The four categories are exhaustive. Every operational activity in a general insurance entity maps to one of these four without remainder.
+The preceding chapter established that every insurance contract creates both a financial obligation and an operational obligation. This chapter develops the operational obligation framework used throughout the remainder of the paper.
 
-## Continuity Principle
-Operational obligations do not extinguish
-at contract expiry.
+The framework is founded on a simple observation. An insurance contract cannot be created, sustained or fulfilled without operational activity. Every operational activity performed by a general insurer exists because it contributes, directly or indirectly, to the establishment, continuation or discharge of contractual obligations.
 
-The operational relationship persists
-through renewal and conditions the terms
-on which the next financial obligation
-is established.
+Rather than viewing operational activities through organisational structures such as departments, reporting lines or cost centres, the framework classifies activities according to the operational obligation they fulfil. This provides a stable measurement basis that remains valid irrespective of organisational design.
 
-Renewal is not a new operational event.
-It is a continuation of an existing
-operational state.
+## 3.1 Four Operational Obligations
 
-## Seasoning Principle
-Operational resource consumption
-declines as relationship history accumulates.
+Every insurance contract simultaneously creates four operational obligations.
 
-New business
-→ full acquisition resource consumed
-→ high information uncertainty
-→ high operational risk loading
+Acquisition
 
-Year N renewal
-→ acquisition resource approaches zero
-→ information uncertainty approaches minimum
-→ operational risk loading approaches minimum
+The obligation to establish an insurable relationship and obtain sufficient information to enter the contract.
 
-The renewal discount is not a commercial concession.
-It is the mathematically correct reflection
-of declining operational resource consumption
-across a maturing relationship.
+Maintenance
 
-Information Accumulation Principle
-Relationship history is operational capital.
+The obligation to preserve the capability required to administer and support the contract throughout its lifetime.
 
-Credit checks, background verification,
-submission analysis and underwriting
-from prior data are not repeated
-for a seasoned renewal relationship.
+Fulfilment
 
-The insurer has already paid
-for that information in prior periods.
+The obligation to execute the contractual promises made to policyholders and counterparties when contractual events occur.
 
-The operational cost of pricing
-a Year N renewal is therefore
-structurally lower than
-the operational cost of pricing
-equivalent new business
-independent of claims experience.
+Governance
 
-## Information Accumulation Principle
-Relationship history is operational capital.
+The obligation to preserve the legitimacy, solvency and regulatory standing required for the insurer to continue honouring contractual promises.
 
-Credit checks, background verification,
-submission analysis and underwriting
-from prior data are not repeated
-for a seasoned renewal relationship.
+These four obligations exist simultaneously. They are not sequential phases of a contract, nor are they mutually exclusive. A single operational activity may contribute to more than one obligation, but every activity can ultimately be attributed to one or more of these four categories.
 
-The insurer has already paid
-for that information in prior periods.
+The framework therefore treats these four obligations as collectively exhaustive for the purposes of operational resource attribution within general insurance.
 
-The operational cost of pricing
-a Year N renewal is therefore
-structurally lower than
-the operational cost of pricing
-equivalent new business
-independent of claims experience.
+## 3.2 Continuity Principle
 
-## Adverse Selection Principle
+Operational obligations do not necessarily terminate at the contractual boundary.
 
-A counterparty who switches insurer
-at every renewal forces full acquisition
-resource consumption at every cycle.
+The financial obligation created by an insurance contract normally concludes when contractual obligations expire or are discharged. The operational relationship, however, frequently continues beyond that point.
 
-A counterparty with long renewal history
-allows operational resource to decline
-to steady state minimum.
+Renewal negotiations, customer servicing, broker relationships, delegated authority oversight and historical underwriting knowledge all persist across successive policy periods. The operational state established during one contract therefore influences the operational resources required for subsequent contracts.
 
-Both may carry identical claims experience.
-Their operational cost profiles are not identical.
-Price should reflect the difference.
+A renewal should therefore not be viewed as an entirely new operational event. It represents the continuation of an existing operational relationship whose accumulated history affects future operational resource consumption.
 
-## Contract Boundary Principle
+## 3.3 Seasoning Principle
 
-Under financial obligation framing
-the contract boundary resets annually.
+Operational resource consumption generally declines as operational relationships mature.
 
-Under operational obligation framing
-the relationship state does not reset.
+New business requires the establishment of an entirely new operational relationship. Information must be gathered, validated and assessed. Counterparties are unfamiliar. Internal processes are initiated for the first time.
 
-A ten-year renewal relationship
-carries operational history
-that spans multiple contract boundaries.
+As the relationship develops, much of this information has already been acquired. Operational effort progressively shifts from establishment towards maintenance.
 
-The IFRS 17 contract boundary
-is a financial reset.
-It is not an operational reset.
-The CSM release profile
-should reflect both.
+Consequently, expected operational resource consumption for an established renewal relationship is generally lower than for otherwise equivalent new business.
 
-## Shareholder and Regulatory Governance Seasoning
-Governance obligations do not remain
-constant across the institutional lifetime.
+This reduction does not arise from commercial pricing strategy. It arises because less operational resource is required to establish confidence in a relationship that has already accumulated operational history.
 
-A new entrant carries maximum
-governance resource consumption:
+## 3.4 Information Accumulation Principle
 
-→ Full regulatory authorisation process
-→ Full capital model validation
-→ Full audit establishment
-→ Full board governance build
-→ Full rating agency relationship establishment
-→ Maximum collateral requirements
-→ Maximum supervisory intensity
+Information accumulated through prior operational activity represents an operational asset.
 
-A seasoned institution with
-established regulatory relationship
-carries minimum governance
-resource consumption:
+Credit assessments, underwriting reviews, policy administration, broker interactions, delegated authority oversight and historical claims experience all contribute to reducing future operational effort.
 
-→ Incremental regulatory filing
-→ Model validation at change points only
-→ Established audit relationship
-→ Functioning board governance
-→ Established rating agency history
-→ Reduced or eliminated collateral
-→ Supervisory relationship in equilibrium
+The insurer has already consumed operational resources to acquire this information in previous periods. Future renewals therefore benefit from operational knowledge that does not require complete recreation.
 
-## The Collateral Analogy
+The framework treats accumulated operational information as reducing future expected operational resource consumption while recognising that significant changes in exposure, counterparties or external conditions may require renewed acquisition effort.
 
-## 3.1 Acquisition Obligations
+## 3.5 Adverse Selection Principle
 
-## 3.2 Maintenance Obligations
+Operational resource consumption depends not only upon insured risk but also upon relationship behaviour.
 
-## 3.3 Fulfilment Obligations
+A policyholder who changes insurer at every renewal requires repeated acquisition activities, including information gathering, underwriting assessment and relationship establishment.
 
-## 3.4 Governance Obligations
+A long-standing renewal relationship requires substantially less acquisition effort because much of the operational information already exists.
+
+Two policyholders may therefore exhibit identical expected claims costs while generating materially different operational resource requirements.
+
+The framework recognises this distinction by separating insurance risk from operational resource consumption.
+
+## 3.6 Contract Boundary Principle
+
+Financial contract boundaries and operational boundaries are not identical.
+
+IFRS 17 defines contract boundaries for the measurement of financial obligations. Operational relationships frequently extend beyond those boundaries through continuing customer relationships, broker engagement, delegated authority arrangements and accumulated institutional knowledge.
+
+Accordingly, financial obligations may reset at contract renewal while operational relationships continue.
+
+This distinction provides the conceptual basis for recognising operational resource consumption independently from the financial obligation itself.
+
+## 3.7 Institutional Governance Seasoning
+
+The seasoning principle applies not only to policyholder relationships but also to institutional relationships.
+
+A newly established insurer generally incurs substantial governance resource consumption associated with regulatory approval, capital model development, governance establishment, audit arrangements, rating agency engagement and supervisory interaction.
+
+As institutional relationships mature, many of these activities become routine. Governance effort increasingly shifts from establishment towards ongoing maintenance and incremental enhancement.
+
+The framework therefore treats governance obligations as dynamic rather than constant throughout the institutional lifecycle.
+
+## 3.8 Collateral Analogy
+
+Collateral requirements provide a practical illustration of governance seasoning.
+
+A newly established insurer frequently faces higher collateral requirements because counterparties and regulators possess limited operational history upon which to assess institutional capability.
+
+As operational credibility develops through demonstrated performance, governance relationships mature and collateral requirements may decline.
+
+The reduction reflects neither reduced financial obligation nor reduced insurance risk alone. It reflects increased confidence in the insurer’s operational capability to fulfil its contractual commitments.
+
+This illustrates a broader principle of the framework: operational history itself possesses measurable economic value because it reduces future operational resource consumption.
 
 ---
 
